@@ -1,0 +1,132 @@
+{
+    "schools": [
+        {
+            "name": "清华大学",
+            "institute": "自动化系智能与网络化系统研究中心",
+            "description": "清华大学自动化系智能与网络化系统研究中心",
+            "deadline": "2024-07-01T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ",
+            "tags": ["TOP2", "C9", "985", "211"]
+        },
+        {
+            "name": "清华大学",
+            "institute": "高等研究院",
+            "description": "",
+            "deadline": "2024-09-02T00:00:00+08:00",
+            "website": "https://www.ias.tsinghua.edu.cn/zsxx.htm",
+            "tags": ["TOP2", "C9", "985", "211"]
+        },
+        {
+            "name": "清华大学",
+            "institute": "智能产业研究院",
+            "description": "",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg",
+            "tags": ["TOP2", "C9", "985", "211"]
+        },
+        {
+            "name": "北京大学",
+            "institute": "深圳研究院信息工程学院",
+            "description": "",
+            "deadline": "2024-06-25T00:00:00+08:00",
+            "website": "https://www.ece.pku.edu.cn/info/1027/2770.htm",
+            "tags": ["TOP2", "C9", "985", "211"]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "人工智能与微结构实验室",
+            "description": "",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ",
+            "tags": ["华五", "C9", "985", "211"]
+        },
+        {
+            "name": "上海人工智能实验室",
+            "institute": "OpenMMLab浦视团队",
+            "description": "大模型、视觉与多模态、生成模型 联培博士(2025)招生",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/iNw-JVuakJ8q-eLWCYUgVA",
+            "tags": ["联培"]
+        },
+        {
+            "name": "上海人工智能实验室",
+            "institute": "OpenRobotLab浦器团队",
+            "description": "多模态学习、机器人学习、具身智能 联培博士(2025)招生",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/eg-N59svXmkFgMhez3O7cw",
+            "tags": ["联培"]
+        },
+        {
+            "name": "上海人工智能实验室",
+            "institute": "OpenDriveLab浦驾团队",
+            "description": "自动驾驶、通用人工智能及具身智能 联培博士(2025)招生",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/Ov4pcDeLspTgWiKorEQeRg",
+            "tags": ["联培"]
+        },
+        {
+            "name": "上海人工智能实验室",
+            "institute": "OpenGVLab通用视觉团队",
+            "description": "人工智能多模态大模型研究 联培博士(2025)招生",
+            "deadline": "",
+            "website": "https://zhuanlan.zhihu.com/p/692930057",
+            "tags": ["联培"]
+        },
+        {
+            "name": "上海人工智能实验室",
+            "institute": "AI for Science团队",
+            "description": "物理、化学、生命、地球等科学领域 联培博士(2025)招生",
+            "deadline": "",
+            "website": "https://zhuanlan.zhihu.com/p/697143065",
+            "tags": ["联培"]
+        },
+        {
+            "name": "上海人工智能实验室",
+            "institute": "网络与分布式系统研究组 NDS Group",
+            "description": "大规模人工智能模型训练系统、MLSys 联培博士(2025)招生",
+            "deadline": "",
+            "website": "https://nds-shlab.github.io/",
+            "tags": ["联培"]
+        },
+        {
+            "name": "南京大学",
+            "institute": "匡亚明学院",
+            "description": "",
+            "deadline": "2024-07-16T00:00:00+08:00",
+            "website": "https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm",
+            "tags": ["华五", "C9", "985", "211"]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-06-24T00:00:00+08:00",
+            "website": "http://www.cst.zju.edu.cn/2024/0531/c32178a2926228/page.htm",
+            "tags": ["华五", "C9", "985", "211"]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-06-26T00:00:00+08:00",
+            "website": "http://www.cs.zju.edu.cn/csen/2024/0527/c27011a2923257/page.htm",
+            "tags": ["华五", "C9", "985", "211"]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-06-26T00:00:00+08:00",
+            "website": "https://icsr.zju.edu.cn/2024/0528/c70139a2924266/page.htm",
+            "tags": ["华五", "C9", "985", "211"]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "浙江大学伊利诺伊大学厄巴纳香槟校区联合学院",
+            "description": "",
+            "deadline": "2024-06-28T00:00:00+08:00",
+            "website": "https://zjui.intl.zju.edu.cn/node/2616",
+            "tags": ["华五", "C9", "985", "211"]
+        }
+    ]
+}
