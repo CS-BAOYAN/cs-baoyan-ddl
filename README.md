@@ -29,3 +29,11 @@
 ## 许可
 
 本仓库使用[MIT License](LICENSE)进行许可。
+
+## 贡献者
+
+<a href="https://github.com/CS-BAOYAN/CSSummerCampDDL/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CS-BAOYAN/CSSummerCampDDL" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
