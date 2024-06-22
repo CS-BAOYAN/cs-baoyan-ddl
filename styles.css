@@ -19,7 +19,8 @@ header {
 .filters {
     display: flex;
     justify-content: center;
-    gap: 20px; /* 控制标签之间的间距 */
+    column-gap: 20px; /* 控制标签之间的间距 */
+    flex-wrap: wrap;
 }
 
 .filters label {
@@ -88,6 +89,7 @@ header {
 
 .school a {
     color: #007bff;
+    word-break: break-all;
     text-decoration: none;
 }
 
@@ -118,11 +120,9 @@ header {
 
 .progress-ring {
     width: 100px;
-    height: 100px;
     position: relative;
     margin: 10px;
     text-align: center;
-    width: 100%;
 }
 
 .progress-ring svg {
@@ -160,4 +160,14 @@ header {
 
 .school.red {
     background-color: #ffe6e6;
+}
+
+@media screen and (max-width: 768px) {
+    #school-list .school {
+        flex-direction: column;
+    }
+
+    .progress-container {
+        flex-wrap: wrap;
+    }
 }
