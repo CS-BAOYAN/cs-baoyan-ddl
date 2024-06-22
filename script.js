@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     };
                 }
             } else {
-                school.timeRemaining = Infinity - 1; // 将时间设为10000，以便排序时排在最后，而在过时之前
+                school.timeRemaining = 10000000000; // 将时间设为10000000000，以便排序时排在最后，而在过时之前
                 school.countdown = 'N/A';
                 school.date = 'N/A';
                 school.times = {
@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function () {
         filteredSchools.forEach(school => {
             const schoolDiv = document.createElement('div');
             schoolDiv.className = 'school';
-            if (school.timeRemaining < 0) {
+            if (school.timeRemaining === Infinity) {
                 schoolDiv.classList.add('red');
             } else {
                 schoolDiv.classList.add('green');
