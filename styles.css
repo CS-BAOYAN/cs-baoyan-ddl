@@ -2,40 +2,97 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #f4f4f9;
 }
 
 .container {
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 20px;
 }
 
 header {
     margin-bottom: 20px;
+    text-align: center;
+}
+
+.filters {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* 控制标签之间的间距 */
 }
 
 .filters label {
-    display: inline-block;
-    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    font-family: 'Courier New', monospace; /* 使用等宽字体 */
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
 }
 
 #search {
-    margin-top: 10px;
-    padding: 5px;
-    width: 100%;
-    max-width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+#clear-search {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#clear-search:hover {
+    background-color: #0056b3;
 }
 
 .school {
-    border: 1px solid #ddd;
-    padding: 15px;
-    margin-bottom: 10px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .school h2 {
     margin-top: 0;
+    font-size: 24px;
+    color: #333;
 }
 
 .school p {
-    margin: 5px 0;
+    margin: 10px 0;
+    font-size: 16px;
+    color: #666;
+}
+
+.school a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.school a:hover {
+    text-decoration: underline;
 }
 
 .school .tags {
@@ -44,9 +101,63 @@ header {
 }
 
 .school .tags span {
-    background: #f0f0f0;
+    background: #f4f4f9;
     border-radius: 3px;
-    padding: 2px 5px;
-    margin-right: 5px;
-    margin-bottom: 5px;
+    padding: 5px 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+}
+
+.progress-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.progress-ring {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.progress-ring svg {
+    position: relative;
+}
+
+.progress-ring circle {
+    fill: none;
+    stroke-width: 10;
+    transform: rotate(-90deg);
+    transform-origin: 50% 50%;
+}
+
+.progress-ring__circle-bg {
+    stroke: #e0e0e0;
+}
+
+.progress-ring__circle {
+    stroke: #007bff;
+    transition: stroke-dasharray 0.3s;
+}
+
+.progress-ring__text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+    fill: #333;
+}
+
+.school.green {
+    background-color: #e6ffed;
+}
+
+.school.red {
+    background-color: #ffe6e6;
 }

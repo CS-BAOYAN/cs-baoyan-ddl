@@ -14,6 +14,17 @@
             <p><strong>声明:</strong> 本网站排序使用时间+字典序排序，DDL均为人为收集，起到参考作用，如有错误不承担任何责任。</p>
             <p>全部DDL的显示使用 Asia/Shanghai 时间。一切20XX年XX月XX日截至的夏令营，在DDL中均显示为20XX年XX月XX+1日零点。</p>
         </header>
+        <div class="filters">
+            <label><input type="checkbox" value="TOP2"> TOP2</label>
+            <label><input type="checkbox" value="华五"> 华五</label>
+            <label><input type="checkbox" value="985"> 985</label>
+            <label><input type="checkbox" value="211"> 211</label>
+            <label><input type="checkbox" value="联培"> 联培</label>
+        </div>
+        <div class="search-container">
+            <input type="text" id="search" placeholder="搜索学校或学院...">
+            <button id="clear-search">清空搜索</button>
+        </div>
         <div id="school-list"></div>
     </div>
     <script src="script.js"></script>
