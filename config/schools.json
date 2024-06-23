@@ -6,7 +6,12 @@
             "description": "清华大学自动化系智能与网络化系统研究中心",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ",
-            "tags": ["TOP2", "C9", "985", "211"]
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "清华大学",
@@ -14,7 +19,12 @@
             "description": "",
             "deadline": "2024-09-02T00:00:00+08:00",
             "website": "https://www.ias.tsinghua.edu.cn/zsxx.htm",
-            "tags": ["TOP2", "C9", "985", "211"]
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "清华大学",
@@ -22,7 +32,12 @@
             "description": "",
             "deadline": "",
             "website": "https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg",
-            "tags": ["TOP2", "C9", "985", "211"]
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "北京大学",
@@ -30,7 +45,12 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://www.ece.pku.edu.cn/info/1027/2770.htm",
-            "tags": ["TOP2", "C9", "985", "211"]
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "上海交通大学",
@@ -38,7 +58,12 @@
             "description": "",
             "deadline": "",
             "website": "https://mp.weixin.qq.com/s/X9LZhlXfM1L2aOIoys3sNQ",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "上海人工智能实验室",
@@ -46,7 +71,9 @@
             "description": "大模型、视觉与多模态、生成模型 联培博士(2025)招生",
             "deadline": "",
             "website": "https://mp.weixin.qq.com/s/iNw-JVuakJ8q-eLWCYUgVA",
-            "tags": ["联培"]
+            "tags": [
+                "联培"
+            ]
         },
         {
             "name": "上海人工智能实验室",
@@ -54,7 +81,9 @@
             "description": "多模态学习、机器人学习、具身智能 联培博士(2025)招生",
             "deadline": "",
             "website": "https://mp.weixin.qq.com/s/eg-N59svXmkFgMhez3O7cw",
-            "tags": ["联培"]
+            "tags": [
+                "联培"
+            ]
         },
         {
             "name": "上海人工智能实验室",
@@ -62,7 +91,9 @@
             "description": "自动驾驶、通用人工智能及具身智能 联培博士(2025)招生",
             "deadline": "",
             "website": "https://mp.weixin.qq.com/s/Ov4pcDeLspTgWiKorEQeRg",
-            "tags": ["联培"]
+            "tags": [
+                "联培"
+            ]
         },
         {
             "name": "上海人工智能实验室",
@@ -70,7 +101,9 @@
             "description": "人工智能多模态大模型研究 联培博士(2025)招生",
             "deadline": "",
             "website": "https://zhuanlan.zhihu.com/p/692930057",
-            "tags": ["联培"]
+            "tags": [
+                "联培"
+            ]
         },
         {
             "name": "上海人工智能实验室",
@@ -78,7 +111,9 @@
             "description": "物理、化学、生命、地球等科学领域 联培博士(2025)招生",
             "deadline": "",
             "website": "https://zhuanlan.zhihu.com/p/697143065",
-            "tags": ["联培"]
+            "tags": [
+                "联培"
+            ]
         },
         {
             "name": "上海人工智能实验室",
@@ -86,7 +121,9 @@
             "description": "大规模人工智能模型训练系统、MLSys 联培博士(2025)招生",
             "deadline": "",
             "website": "https://nds-shlab.github.io/",
-            "tags": ["联培"]
+            "tags": [
+                "联培"
+            ]
         },
         {
             "name": "南京大学",
@@ -94,7 +131,12 @@
             "description": "",
             "deadline": "2024-07-16T00:00:00+08:00",
             "website": "https://dii.nju.edu.cn/89/f5/c15501a690677/page.htm",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "浙江大学",
@@ -102,7 +144,12 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "http://www.cst.zju.edu.cn/2024/0531/c32178a2926228/page.htm",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "浙江大学",
@@ -110,7 +157,12 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "http://www.cs.zju.edu.cn/csen/2024/0527/c27011a2923257/page.htm",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "浙江大学",
@@ -118,7 +170,12 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://icsr.zju.edu.cn/2024/0528/c70139a2924266/page.htm",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "浙江大学",
@@ -126,7 +183,12 @@
             "description": "",
             "deadline": "2024-06-28T00:00:00+08:00",
             "website": "https://zjui.intl.zju.edu.cn/node/2616",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "东南大学",
@@ -134,7 +196,10 @@
             "description": "",
             "deadline": "",
             "website": "https://palm.seu.edu.cn/application.html",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "华中科技大学",
@@ -142,7 +207,10 @@
             "description": "",
             "deadline": "2024-06-28T12:00:00+08:00",
             "website": "https://aia.hust.edu.cn/info/1177/9301.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "武汉大学",
@@ -150,7 +218,10 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://liesmars.whu.edu.cn/info/1058/16203.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "武汉大学",
@@ -158,7 +229,10 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://cse.whu.edu.cn/info/1101/23762.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "南开大学",
@@ -166,7 +240,10 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://ai.nankai.edu.cn/info/1024/5850.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "南开大学",
@@ -174,7 +251,10 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://cs.nankai.edu.cn/info/1042/3695.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "南开大学",
@@ -182,7 +262,10 @@
             "description": "",
             "deadline": "",
             "website": "https://cc.nankai.edu.cn/2024/0613/c13297a545420/page.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国人民大学",
@@ -190,7 +273,10 @@
             "description": "中国人民大学智慧治理学院2024年暑期研学营",
             "deadline": "2024-06-24T17:00:00+08:00",
             "website": "http://zhzl.ruc.edu.cn/zsxx/zsjz/d82cceae4e6644acbc17a22e7029a266.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "北京邮电大学",
@@ -198,7 +284,9 @@
             "description": "",
             "deadline": "2024-08-01T00:00:00+08:00",
             "website": "https://see.bupt.edu.cn/info/1047/2741.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京邮电大学",
@@ -206,7 +294,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://scs.bupt.edu.cn/info/1050/3886.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京邮电大学",
@@ -214,7 +304,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://ai.bupt.edu.cn/info/1065/3416.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京邮电大学",
@@ -222,7 +314,9 @@
             "description": "",
             "deadline": "2024-08-01T00:00:00+08:00",
             "website": "https://sice.bupt.edu.cn/info/1013/2326.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京邮电大学",
@@ -230,7 +324,9 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://scss.bupt.edu.cn/info/1110/5595.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京理工大学",
@@ -238,7 +334,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://cst.bit.edu.cn/xxfw/tzgg/2fa2fa019403455b9f92e96650f87f2b.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "北京理工大学",
@@ -246,7 +345,10 @@
             "description": "",
             "deadline": "2024-06-28T00:00:00+08:00",
             "website": "https://arims.bit.edu.cn/tz/c9af7401b6be49beb2fb5dbd31d84611.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "北京理工大学",
@@ -254,7 +356,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/vUKlPV9bX42xXCv9fEbnfQ",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "北京师范大学",
@@ -262,7 +367,10 @@
             "description": "",
             "deadline": "2024-07-10T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/Z02xlYAM-CYAud4zunRdBw",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "北京师范大学",
@@ -270,7 +378,10 @@
             "description": "北京师范大学地理科学学部-遥感科学与技术&地图学与地理信息系统",
             "deadline": "2024-07-10T00:00:00+08:00",
             "website": "https://geo.bnu.edu.cn/tzgg/103ee34a3c3045539ec2649757ac0324.html",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西安交通大学",
@@ -278,7 +389,11 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "http://se.xjtu.edu.cn/info/1043/2679.htm",
-            "tags": ["C9", "985", "211"]
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西安交通大学",
@@ -286,7 +401,11 @@
             "description": "",
             "deadline": "",
             "website": "http://cybersec.xjtu.edu.cn/info/1017/1932.htm",
-            "tags": ["C9", "985", "211"]
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西安交通大学",
@@ -294,7 +413,11 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "https://fist.xjtu.edu.cn/info/1013/4052.htm",
-            "tags": ["C9", "985", "211"]
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西北工业大学",
@@ -302,7 +425,10 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://jsj.nwpu.edu.cn/info/1599/22435.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西北工业大学",
@@ -310,7 +436,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://ruanjian.nwpu.edu.cn/info/1133/9736.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西北工业大学",
@@ -318,7 +447,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://wlkjaqxy.nwpu.edu.cn/info/1044/7850.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西北工业大学",
@@ -326,7 +458,10 @@
             "description": "",
             "deadline": "2024-06-28T00:00:00+08:00",
             "website": "https://iopen.nwpu.edu.cn/info/1028/4836.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西北工业大学",
@@ -334,7 +469,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://zdhxy.nwpu.edu.cn/info/1042/20643.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西北工业大学",
@@ -342,7 +480,10 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://dianzi.nwpu.edu.cn/info/1507/30031.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西北工业大学",
@@ -350,7 +491,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://wurenxitong.nwpu.edu.cn/info/1108/7238.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中山大学",
@@ -358,7 +502,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://cse.sysu.edu.cn/content/7106",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中山大学",
@@ -366,7 +513,10 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://mst.sysu.edu.cn/article/997",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中山大学",
@@ -374,7 +524,10 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://seit.sysu.edu.cn/article/2594",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中山大学",
@@ -382,7 +535,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://sai.sysu.edu.cn/notice/1415979.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中山大学",
@@ -390,7 +546,10 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "https://sse.sysu.edu.cn/article/723",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中山大学",
@@ -398,7 +557,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/04MmHD-vq6iW812PZ44JJw",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "东北大学",
@@ -406,7 +568,10 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "http://www.rse.neu.edu.cn/2024/0612/c2147a256868/page.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "大连理工大学",
@@ -414,7 +579,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://ss.dlut.edu.cn/info/1122/28802.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "大连理工大学",
@@ -422,7 +590,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://cs.dlut.edu.cn/info/1316/3519.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "华东师范大学",
@@ -430,7 +601,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://dase.ecnu.edu.cn/21/c7/c41465a598471/page.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "电子科技大学",
@@ -438,7 +612,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://sise.uestc.edu.cn/info/1026/12435.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "电子科技大学",
@@ -446,7 +623,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://www.scse.uestc.edu.cn/info/1015/16136.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "电子科技大学",
@@ -454,7 +634,10 @@
             "description": "成电2023年新成立的研究院，国家级重点实验室，2023已招收一届推免生，今年第一次开展夏令营活动。",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://icct.uestc.edu.cn/info/1029/1665.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "电子科技大学",
@@ -462,7 +645,10 @@
             "description": "本科专业为数学、物理、统计学或电子信息类专业，欢迎对人工智能及大数据感兴趣的同学",
             "deadline": "2024-06-29T00:00:00+08:00",
             "website": "https://www.riest.uestc.edu.cn/info/1021/2978.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学院",
@@ -470,7 +656,9 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://ia.cas.cn/yjsjy/zs/sszs/202406/t20240613_7188181.html",
-            "tags": []
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院",
@@ -478,7 +666,9 @@
             "description": "",
             "deadline": "2024-06-25T14:00:00+08:00",
             "website": "http://www.ict.ac.cn/yjsjy/zsxx/sszs/202406/t20240618_7191570.html",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院",
@@ -486,7 +676,9 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/CamcfCmc3jmwMaiS5WVYqA",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院",
@@ -494,7 +686,9 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "http://www.ime.cas.cn/kjrh/tzggkjrh/202405/t20240522_7168020.html",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院",
@@ -502,7 +696,9 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://cnic.cas.cn/yjsjy/tzgg/202405/t20240521_7167085.html",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院",
@@ -510,7 +706,9 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "http://www.iie.cas.cn/xsjy2020/zxtz2020/202405/t20240528_7173993.html",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院",
@@ -518,7 +716,9 @@
             "description": "",
             "deadline": "2024-06-29T00:00:00+08:00",
             "website": "http://www.iscas.ac.cn/yjsjy2016/zsxx2016/202405/t20240515_7162425.html",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院",
@@ -526,7 +726,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://siat.cas.cn/yjsjy2016/zsjs2016/202405/t20240527_7173055.html",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院",
@@ -534,7 +736,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202405/t20240531_7176928.html",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "中国科学院大学",
@@ -542,7 +746,9 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/NlPISZrq6sIzpVgVrbsCWg",
-            "tags": ["双非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "中国科学院大学",
@@ -550,7 +756,9 @@
             "description": "",
             "deadline": "",
             "website": "https://ai.ucas.ac.cn/index.php/zh-cn/tzgg/7313-2025",
-            "tags": ["双非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "中国科学院大学",
@@ -558,7 +766,9 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "https://sme.ucas.ac.cn/index.php/zh-cn/zsjy/sszs/512-2024-6",
-            "tags": ["双非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -566,7 +776,12 @@
             "description": "",
             "deadline": "",
             "website": "https://quantum.ustc.edu.cn/web/index.php/node/762",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -574,7 +789,12 @@
             "description": "",
             "deadline": "",
             "website": "https://miralab.ai/admission/admission_2024/",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -582,7 +802,12 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://xly.ustc.edu.cn/news.php?newsid=1004",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -590,7 +815,12 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://m.xly.ustc.edu.cn/news.php?newsid=1023",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -598,7 +828,12 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://xly.ustc.edu.cn/news.php?newsid=1001",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -606,7 +841,12 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://xly.ustc.edu.cn/news.php?newsid=1013",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -614,7 +854,12 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://xly.ustc.edu.cn/news.php?newsid=987",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -622,7 +867,12 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://sz.ustc.edu.cn/cn_mobile/xwgg_show/1574.html",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -630,7 +880,12 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://xly.ustc.edu.cn/news.php?newsid=994",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -638,7 +893,12 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://xly.ustc.edu.cn/news.php?newsid=1003",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -646,7 +906,12 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://sme.ustc.edu.cn/2024/0603/c31027a642813/page.htm",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "中国科学技术大学",
@@ -654,7 +919,12 @@
             "description": "",
             "deadline": "",
             "website": "https://www.eitech.edu.cn/?admission=中国科学技术大学（东方理工专项）2025级本科直博",
-            "tags": ["华五", "C9", "985", "211"]
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
         },
         {
             "name": "南方科技大学",
@@ -662,7 +932,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "http://ie-school.sustech.edu.cn/page/content?id=629",
-            "tags": ["双非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "上海科技大学",
@@ -670,7 +942,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://sist.shanghaitech.edu.cn/2024/0513/c7339a1096341/page.htm",
-            "tags": ["双非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "上海科技大学",
@@ -678,7 +952,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://www.lglab.ac.cn/sylbt/202404/t20240425_212225.html",
-            "tags": ["双非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "上海科技大学",
@@ -686,7 +962,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/QCbT2n5klB_LY0XLUvd-bQ",
-            "tags": ["双非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "北京交通大学",
@@ -694,7 +972,9 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "http://sse.bjtu.edu.cn/cms/item/995.html",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京交通大学",
@@ -702,7 +982,9 @@
             "description": "",
             "deadline": "2024-07-08T12:00:00+08:00",
             "website": "https://cs.bjtu.edu.cn/tzgg/202312183.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京交通大学",
@@ -710,7 +992,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/1AD28E2E09B3CE23E060403B570306E9",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京交通大学",
@@ -718,7 +1002,9 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://sss.bjtu.edu.cn/cms/item/23356.html",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京计算科学研究中心",
@@ -726,7 +1012,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://www.csrc.ac.cn/en/event/schools/2024-05-29/109.html",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "深圳医学科学院",
@@ -734,7 +1022,9 @@
             "description": "",
             "deadline": "2024-06-28T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/0R-mbkijxFkc9iyy5CvrrA",
-            "tags": ["研究院"]
+            "tags": [
+                "研究院"
+            ]
         },
         {
             "name": "四川大学",
@@ -742,7 +1032,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "http://vs.scu.edu.cn/info/1052/2066.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "四川大学",
@@ -750,7 +1043,10 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "https://yjs.cd120.com/contents/412/4461.html",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "山东大学",
@@ -758,7 +1054,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://ic.sdu.edu.cn/info/1036/3559.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "山东大学",
@@ -766,7 +1065,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://www.cs.sdu.edu.cn/info/1068/6284.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "山东大学",
@@ -774,7 +1076,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://www.sc.sdu.edu.cn/info/1019/4710.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "山东大学",
@@ -782,7 +1087,10 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://cst.qd.sdu.edu.cn/info/1023/3194.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "山东大学",
@@ -790,7 +1098,10 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://ie.wh.sdu.edu.cn/info/1007/14342.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "华南理工大学",
@@ -798,7 +1109,10 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "重庆大学",
@@ -806,7 +1120,10 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://eie.cqu.edu.cn/info/1483/2569.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "重庆大学",
@@ -814,7 +1131,10 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "http://www.cee.cqu.edu.cn/info/3542/19705.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "重庆大学",
@@ -822,7 +1142,10 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s?__biz=Mzg2MjEwNTQwMw==&mid=2247491081&idx=1&sn=8dc10174de580a0d2b8e466c0f46016c",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "深圳大学",
@@ -830,7 +1153,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/2mzeis4AAbb_lPSoBnUO2g",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
         },
         {
             "name": "首都师范大学",
@@ -838,7 +1163,9 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://iec.cnu.edu.cn/ggml/tzgg1/add5e8ef506b47b49a8d7f4d0d35e698.htm",
-            "tags": ["双非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "武汉科技大学",
@@ -846,7 +1173,9 @@
             "description": "",
             "deadline": "2024-06-29T00:00:00+08:00",
             "website": "https://jsjkx.wust.edu.cn/info/1671/35952.htm",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
         },
         {
             "name": "北京语言大学",
@@ -854,7 +1183,9 @@
             "description": "",
             "deadline": "2024-07-06T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/-mgDyLPzizPcuSOh2j-T-w",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
         },
         {
             "name": "华中师范大学",
@@ -862,7 +1193,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://foaie.ccnu.edu.cn/info/1008/7070.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "北京工业大学",
@@ -870,7 +1203,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://yanzhao.bjut.edu.cn/info/1025/15888.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "江南大学",
@@ -878,7 +1213,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://ai.jiangnan.edu.cn/info/1055/3790.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "江南大学",
@@ -886,7 +1223,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://iot.jiangnan.edu.cn/info/1022/3792.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "上海财经大学",
@@ -894,7 +1233,9 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://riis.sufe.edu.cn/jxChinese/4f/4a/c10273a216906/page.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "中央财经大学",
@@ -902,7 +1243,9 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "https://ie.cufe.edu.cn/info/1341/6668.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "中央财经大学",
@@ -910,7 +1253,9 @@
             "description": "",
             "deadline": "2024-07-04T00:00:00+08:00",
             "website": "https://soa.cufe.edu.cn/info/1180/7056.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "上海理工大学",
@@ -918,7 +1263,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/Bhn-cjIlV3m6ebWBTFdm-g",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
         },
         {
             "name": "湘潭大学",
@@ -926,7 +1273,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://aei.xtu.edu.cn/info/1039/3728.htm",
-            "tags": ["四非"]
+            "tags": [
+                "双非"
+            ]
         },
         {
             "name": "湖南科技大学",
@@ -934,7 +1283,9 @@
             "description": "",
             "deadline": "2024-06-28T00:00:00+08:00",
             "website": "https://computer.hnust.edu.cn/tzgg/0a3d8112b0c544f4a6458a9be9810287.htm",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
         },
         {
             "name": "国防科技大学",
@@ -942,7 +1293,10 @@
             "description": "",
             "deadline": "2024-06-28T00:00:00+08:00",
             "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13803",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "哈尔滨工程大学",
@@ -950,7 +1304,9 @@
             "description": "",
             "deadline": "2024-06-23T00:00:00+08:00",
             "website": "https://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "东北师范大学",
@@ -958,7 +1314,9 @@
             "description": "",
             "deadline": "2024-06-27T00:00:00+08:00",
             "website": "https://ist.nenu.edu.cn/info/1157/5436.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "海南大学",
@@ -966,7 +1324,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://bme.hainanu.edu.cn/info/1051/5301.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "东华大学",
@@ -974,7 +1334,9 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://web.dhu.edu.cn/cist/2024/0611/c3004a346769/page.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "东华大学",
@@ -982,7 +1344,9 @@
             "description": "",
             "deadline": "2024-06-29T00:00:00+08:00",
             "website": "https://cst.dhu.edu.cn/2024/0617/c12723a347136/page.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "大连海事大学",
@@ -990,7 +1354,9 @@
             "description": "",
             "deadline": "2024-07-09T00:00:00+08:00",
             "website": "https://grs.dlmu.edu.cn/info/1139/10761.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "西南交通大学",
@@ -998,7 +1364,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=7E608E004C10BCB6",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "西南交通大学",
@@ -1006,7 +1374,9 @@
             "description": "",
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=0C2FA997A26A107A",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "南京理工大学",
@@ -1014,7 +1384,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://cs.njust.edu.cn/1f/a8/c1820a335784/page.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "南京理工大学",
@@ -1022,7 +1395,10 @@
             "description": "",
             "deadline": "2024-07-03T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/MAAb5REsBRIUQcjkUrdpJg",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "西南财经大学",
@@ -1030,7 +1406,9 @@
             "description": "",
             "deadline": "2024-06-28T00:00:00+08:00",
             "website": "https://it.swufe.edu.cn/info/1166/16538.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "南京农业大学",
@@ -1038,7 +1416,9 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "https://ai.njau.edu.cn/info/1009/3502.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "三峡大学",
@@ -1046,7 +1426,9 @@
             "description": "",
             "deadline": "2024-06-25T00:00:00+08:00",
             "website": "https://it.ctgu.edu.cn/info/1090/11146.htm",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
         },
         {
             "name": "北京航空航天大学",
@@ -1054,7 +1436,10 @@
             "description": "",
             "deadline": "2024-06-29T00:00:00+08:00",
             "website": "https://scse.buaa.edu.cn/info/1299/11192.htm",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "北京航空航天大学",
@@ -1062,7 +1447,10 @@
             "description": "",
             "deadline": "2024-06-26T00:00:00+08:00",
             "website": "https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=11312",
-            "tags": ["985", "211"]
+            "tags": [
+                "985",
+                "211"
+            ]
         },
         {
             "name": "香港科技大学",
@@ -1070,7 +1458,9 @@
             "description": "",
             "deadline": "2024-08-25T00:00:00+08:00",
             "website": "https://cse.hkust.edu.hk/pg/admissions/recruiting/",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
         },
         {
             "name": "香港科技大学",
@@ -1078,7 +1468,1941 @@
             "description": "",
             "deadline": "",
             "website": "https://mp.weixin.qq.com/s/7Pymi47l2nyR4imEA4FnZA",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院数据与信息研究院数据与信息研究院电子与通信工程项目",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2024/0521/c120a94526/page.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院数据与信息研究院大数据工程",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2024/0522/c120a94533/page.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院数据与信息研究院集成电路与系统",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2024/0524/c120a94577/page.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "神经调控国家工程研究中心",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/78ncrcyXagVrPs8whesZiw",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院数据与信息研究院人工智能项目",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94481/page.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "国际开放创新教育中心（Open FIESTA）",
+            "description": "",
+            "deadline": "2024-06-14T00:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2024/0520/c120a94480/page.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院数据与信息研究院计算机科学与技术",
+            "description": "",
+            "deadline": "2024-06-04T00:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2024/0514/c120a94417/page.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "统计学研究中心",
+            "description": "",
+            "deadline": "2024-04-10T12:00:00+08:00",
+            "website": "http://www.stat.tsinghua.edu.cn/hot-news/%e3%80%90%e5%a4%8f%e4%bb%a4%e8%90%a5%e3%80%912024%e5%b9%b4%e4%bc%98%e7%a7%80%e5%a4%a7%e5%ad%a6%e7%94%9f%e7%bb%9f%e8%ae%a1%e4%b8%8e%e6%95%b0%e6%8d%ae%e7%a7%91%e5%ad%a6%e4%ba%a4%e6%b5%81%e4%bc%9a/",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-05-15T23:59:00+08:00",
+            "website": "https://admission.iiis.tsinghua.edu.cn/index-ai.php",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "清华交叉信息研究院 ARChipLab实验室",
+            "description": "",
+            "deadline": "2024-05-09T00:00:00+08:00",
+            "website": "https://people.iiis.tsinghua.edu.cn/~maks/files/archiplab_rollment.pdf",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "交叉信息研究院",
+            "description": "",
+            "deadline": "2024-05-15T23:59:00+08:00",
+            "website": "https://admission.iiis.tsinghua.edu.cn/",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "网络研究院",
+            "description": "",
+            "deadline": "2024-05-23T00:00:00+08:00",
+            "website": "https://www.insc.tsinghua.edu.cn/info/1179/3690.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "地球系统科学系",
+            "description": "",
+            "deadline": "2024-05-25T00:00:00+08:00",
+            "website": "https://www.dess.tsinghua.edu.cn/info/1123/6142.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "工业工程系",
+            "description": "",
+            "deadline": "2024-05-27T00:00:00+08:00",
+            "website": "https://www.ie.tsinghua.edu.cn/info/1071/2648.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "计算机科学与技术系",
+            "description": "",
+            "deadline": "2024-05-23T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s?srcid=0511ncUrMWk3NECs7sd5Cxjq&scene=23&sharer_shareinfo=074a53894defe7481e7b974878983d4c&mid=2247498995&sn=0adda03af3b249bef69c302478d6029b&idx=1&sharer_shareinfo_first=57401cb083ee681836005640a2214754&__biz=MzUyNTI4MzEzMg%3D%3D&chksm=fa22c6a0cd554fb6a3a761d4663d64141028eb8ad1cf12d50002604cf8b089ca03789e712111&mpshare=1#rd",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "集成电路学院",
+            "description": "",
+            "deadline": "2024-06-11T00:00:00+08:00",
+            "website": "https://www.ime.tsinghua.edu.cn/info/1086/1885.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院数据与信息研究院生物医药与健康工程研究院",
+            "description": "",
+            "deadline": "2024-06-12T00:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2024/0517/c120a94467/page.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院生物医药与健康工程研究院",
+            "description": "",
+            "deadline": "2024-06-12T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s?__biz=MzkxNTIyMTY2OQ==&mid=2247495446&idx=1&sn=9bd1b954069a08e01571021748db46af&chksm=c160d2dcf6175bca3eab99f2053340c5961125f62eeb517af00aa85406e621e08f3d11d5971f&scene=21#wechat_redirect",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院数据与信息研究院管理科学与工程、物流工程与管理项目",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/6dOfx45eWHuDDBPulj6hew",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "未来技术学院",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "电子学院",
+            "description": "",
+            "deadline": "2024-06-05T00:00:00+08:00",
+            "website": "https://ele.pku.edu.cn/info/1063/3071.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "统计科学中心",
+            "description": "",
+            "deadline": "2024-04-25T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/NgoAJ6VF6xEAoNqXehJDDg",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-06-04T00:00:00+08:00",
+            "website": "https://cs.pku.edu.cn/info/1022/3053.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "智能学院",
+            "description": "",
+            "deadline": "2024-06-04T00:00:00+08:00",
+            "website": "https://www.cis.pku.edu.cn/info/1034/3018.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "工学院",
+            "description": "",
+            "deadline": "2024-06-10T08:30:00+08:00",
+            "website": "https://www.coe.pku.edu.cn/graduate/notice/12781.html",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "前沿交叉学科研究院",
+            "description": "",
+            "deadline": "2024-06-12T00:00:00+08:00",
+            "website": "http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1754",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "集成电路学院",
+            "description": "",
+            "deadline": "2024-06-12T00:00:00+08:00",
+            "website": "https://ic.pku.edu.cn/rcpy/yjszs/adaf04020bfb49b7951e096515d76a58.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "软件与微电子学院",
+            "description": "",
+            "deadline": "2024-06-13T00:00:00+08:00",
+            "website": "https://www.ss.pku.edu.cn/admission/admnotice/4574.html",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "生命科学学院和生命科学联合中心（北大方面）",
+            "description": "",
+            "deadline": "2024-06-13T00:00:00+08:00",
+            "website": "http://web.bio.pku.edu.cn/homes/Index/news_cont/21/17077.html",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "密西根学院",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/Y-CGIQ_nB7f5qxhFAvrMCg",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "生物医学工程学院（含Med-X研究院）",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://bme.sjtu.edu.cn/Web/Show/3455",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-06-09T00:00:00+08:00",
+            "website": "https://ga.sjtu.edu.cn/zsgl/xxgs/xlyhdbfmx.aspx",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "密西根学院2024年“科研见习项目”",
+            "description": "",
+            "deadline": "2024-04-16T00:00:00+08:00",
+            "website": "https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-04-03/144784/",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "电子信息与电气工程学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10117.html",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "电子科学与工程学院",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "https://ese.nju.edu.cn/75/bb/c22673a685499/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "软件所本科生开放日招生说明",
+            "description": "",
+            "deadline": "2024-05-26T00:00:00+08:00",
+            "website": "https://ics.nju.edu.cn/recruit/index.html",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "LAMDA招收 2025年秋季入学研究生说明",
+            "description": "",
+            "deadline": "2024-05-16T00:00:00+08:00",
+            "website": "https://www.lamda.nju.edu.cn/recruit-2025/recruit-2025.html",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "计算机科学与技术系2024年本科生开放日",
+            "description": "",
+            "deadline": "2024-05-06T00:00:00+08:00",
+            "website": "https://cs.nju.edu.cn/53/55/c1702a676693/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-06-02T23:59:00+08:00",
+            "website": "https://ai.nju.edu.cn/6d/dc/c53055a683484/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "智能科学与技术学院",
+            "description": "",
+            "deadline": "2024-06-13T17:00:00+08:00",
+            "website": "https://is.nju.edu.cn/7c/5f/c57162a687199/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "南大NLP夏令营",
+            "description": "",
+            "deadline": "2024-06-19T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/jWJiq2E2gHha_K9ryWg2sA",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "智能软件与工程学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://ise.nju.edu.cn/info/1018/1841.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://software.nju.edu.cn//tzgg/20240528/i267245.html",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "良渚实验室",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "http://liangzhulab.zju.edu.cn/index.php?c=index&a=show&catid=249&id=1534",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "信息与电子工程学院",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "http://www.isee.zju.edu.cn/2024/0517/c21109a2918416/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "脑科学与脑医学学院",
+            "description": "",
+            "deadline": "2024-06-04T00:00:00+08:00",
+            "website": "http://www.neuroscience.zju.edu.cn/2024/0416/c75666a2902185/page.htm",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "国际联合商学院-数据科学与工程项目",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://zibs.zju.edu.cn/article/summer-camp-2024.html",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "数据科学研究中心-数据科学与工程项目",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "http://cds.zju.edu.cn/a/zsxx/3463.html",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "武汉大学",
+            "institute": "信息管理学院",
+            "description": "",
+            "deadline": "2024-06-19T00:00:00+08:00",
+            "website": "https://sim.whu.edu.cn/info/1776/97752.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "武汉大学",
+            "institute": "武汉大学计算机学院",
+            "description": "",
+            "deadline": "2024-06-20T23:00:00+08:00",
+            "website": "https://cs.whu.edu.cn/info/1071/44151.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南开大学",
+            "institute": "电子信息与光学工程学院",
+            "description": "",
+            "deadline": "2024-06-13T00:00:00+08:00",
+            "website": "https://ceo.nankai.edu.cn/info/1099/4101.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国人民大学",
+            "institute": "中国人民大学信息学院",
+            "description": "",
+            "deadline": "2024-06-16T17:00:00+08:00",
+            "website": "http://info.ruc.edu.cn/rcpy/bss/zsxx3/a945da71ead24051af090a695d0598b7.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国人民大学",
+            "institute": "高瓴人工智能学院AI-Engine实验室",
+            "description": "",
+            "deadline": "2024-06-14T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/0BFY6nHouLgSGd5cOizIIg",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国人民大学",
+            "institute": "高瓴人工智能学院2024年暑期研学营",
+            "description": "",
+            "deadline": "2024-06-13T12:00:00+08:00",
+            "website": "http://ai.ruc.edu.cn/newslist/notice/20240603001.html",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京理工大学",
+            "institute": "集成电路与电子学院",
+            "description": "",
+            "deadline": "2024-06-22T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/aHNgeimsI-1qB4d_8vKFJQ",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "哈工大SCIR（哈工大赛尔实验室）",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/tMZhgGdGZkoTz7q1mLDfFw",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "计算机科学与技术学院（深圳）",
+            "description": "",
+            "deadline": "2024-06-08T00:00:00+08:00",
+            "website": "http://cs.hitsz.edu.cn/info/1029/7282.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "机电工程与自动化学院（深圳）",
+            "description": "",
+            "deadline": "2024-06-08T00:00:00+08:00",
+            "website": "http://smea.hitsz.edu.cn/info/1014/2462.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "机电工程学院",
+            "description": "",
+            "deadline": "2024-05-31T00:00:00+08:00",
+            "website": "https://sme.hit.edu.cn/2024/0507/c17968a344034/page.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "计算学部",
+            "description": "",
+            "deadline": "2024-05-31T00:00:00+08:00",
+            "website": "https://cs.hit.edu.cn/2024/0510/c11474a344345/pagem.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "电气工程及自动化学院",
+            "description": "",
+            "deadline": "2024-06-08T00:00:00+08:00",
+            "website": "https://hitee.hit.edu.cn/2024/0506/c17101a343967/page.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "集成电路（深圳）",
+            "description": "",
+            "deadline": "2024-06-08T00:00:00+08:00",
+            "website": "http://ic.hitsz.edu.cn/info/1032/2426.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "微电子学院",
+            "description": "",
+            "deadline": "2024-06-13T00:00:00+08:00",
+            "website": "https://ele.xjtu.edu.cn/info/1013/2391.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "自动化学院",
+            "description": "",
+            "deadline": "2024-06-11T00:00:00+08:00",
+            "website": "https://automation.xjtu.edu.cn/info/1009/2091.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-06-11T00:00:00+08:00",
+            "website": "http://www.cs.xjtu.edu.cn/info/1233/3380.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "电子科学与工程学院",
+            "description": "",
+            "deadline": "2024-06-06T00:00:00+08:00",
+            "website": "http://esteie.xjtu.edu.cn/info/1051/2763.htm",
+            "tags": [
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "同济大学上海自主智能无人系统科学中心",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://srias.tongji.edu.cn/1e/2d/c17827a335405/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "电子与信息工程学院",
+            "description": "",
+            "deadline": "2024-06-07T12:00:00+08:00",
+            "website": "https://see.tongji.edu.cn/info/1147/12581.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-06-12T00:00:00+08:00",
+            "website": "https://sse.tongji.edu.cn/info/1132/5077.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中山大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-06-22T00:00:00+08:00",
+            "website": "https://scst.sysu.edu.cn/rc/rc02/1416009.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中山大学",
+            "institute": "电子与通信工程学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://sece.sysu.edu.cn/zs/zs01/1415996.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "天津大学新媒体与传播学院",
+            "description": "",
+            "deadline": "2024-06-20T00:00:00+08:00",
+            "website": "http://snmc.tju.edu.cn/info/1120/2163.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "智能与计算学部",
+            "description": "",
+            "deadline": "2024-06-20T00:00:00+08:00",
+            "website": "https://cic.tju.edu.cn/info/1041/4968.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "微电子学院",
+            "description": "",
+            "deadline": "2024-06-20T00:00:00+08:00",
+            "website": "https://sme.tju.edu.cn/info/1095/2915.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "佐治亚理工深圳学院",
+            "description": "",
+            "deadline": "2024-06-20T00:00:00+08:00",
+            "website": "https://www.gtsi.edu.cn/node/4325",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "自动化学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "http://seea.tju.edu.cn/info/1031/4573.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "吉林大学",
+            "institute": "吉林大学人工智能学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "http://sai.jlu.edu.cn/info/1065/4700.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "吉林大学",
+            "institute": "电子科学与工程学院",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://ee.jlu.edu.cn/info/1038/8482.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "吉林大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-06-08T00:00:00+08:00",
+            "website": "https://ccst.jlu.edu.cn/info/1091/19265.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "吉林大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-06-10T08:00:00+08:00",
+            "website": "https://csw.jlu.edu.cn/info/1156/7193.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东北大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-06-19T00:00:00+08:00",
+            "website": "http://sc.neu.edu.cn/2024/0607/c141a256671/pagem.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东北大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-06-19T00:00:00+08:00",
+            "website": "http://www.cse.neu.edu.cn/2024/0611/c6274a256749/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "计算机科学与技术学院 ",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://cs.ecnu.edu.cn/25/15/c19867a599317/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "临港实验室",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/F6B8S1IZJaLKCnvFqKcypA",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "统计学院",
+            "description": "",
+            "deadline": "2024-06-11T00:00:00+08:00",
+            "website": "https://stat.ecnu.edu.cn/14/73/c9708a595059/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "华东师范大学",
+            "institute": "软件工程学院“可信人工智能优秀大学生夏令营”",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "http://www.sei.ecnu.edu.cn/19/0c/c33171a596236/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "（深圳）高等研究院",
+            "description": "",
+            "deadline": "2024-06-22T00:00:00+08:00",
+            "website": "https://sias.uestc.edu.cn/info/1088/4569.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "通信抗干扰实验室",
+            "description": "",
+            "deadline": "2024-06-22T00:00:00+08:00",
+            "website": "https://www.ncl.uestc.edu.cn/info/1083/2934.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "基础与前沿研究院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://www.iffs.uestc.edu.cn/info/1049/4761.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算所能力培养“春闱计划”",
+            "description": "",
+            "deadline": "2024-06-08T00:00:00+08:00",
+            "website": "http://www.ict.ac.cn/xwgg/tzgg/202406/t20240603_7177750.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "空天信息创新研究院（空天院）",
+            "description": "",
+            "deadline": "2024-05-11T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/_7VnrPleopF3mbUJcMqi7A",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "数学与系统科学研究院",
+            "description": "",
+            "deadline": "2024-04-18T00:00:00+08:00",
+            "website": "http://www.amss.cas.cn/yjsjy/zxxx/202403/t20240327_6966567.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "自动化研究所“人工智能菁英班”",
+            "description": "",
+            "deadline": "2024-04-01T00:00:00+08:00",
+            "website": "http://www.ia.cas.cn/yjsjy/zs/sszs/202403/t20240313_6965694.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "声学研究所",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "http://www.ioa.cas.cn/yjs/zsxx/zstz/202405/t20240510_7157540.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海高等研究院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202404/t20240429_7141703.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "杭州高等研究院",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "http://hias.ucas.ac.cn/znkxyjs/info/1055/1722.htm",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "中国科学院大学",
+            "institute": "华大专项 |基因组学|生物信息学|人工智能",
+            "description": "",
+            "deadline": "2024-06-18T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/mJq6nn0-_2IbKZ25q09jMg",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "统计与数据科学系",
+            "description": "",
+            "deadline": "2024-05-13T00:00:00+08:00",
+            "website": "https://stat-ds.sustech.edu.cn/notice/335",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "系统设计与智能制造学院",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/nRkLSLeb0p5zozRBkwpwZA",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "机械与能源工程系",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/-cskcfJ608o7RnGGA-vezA",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "生物医学工程系",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://bme.sustech.edu.cn/20240425-2/?9",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "深港微电子学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/gsM2k8jv4ptcguUJ3RU9og",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "四川大学",
+            "institute": "电子信息学院",
+            "description": "",
+            "deadline": "2024-06-21T12:00:00+08:00",
+            "website": "https://eie.scu.edu.cn/info/1025/12669.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "四川大学",
+            "institute": "生物医学工程学院/国家生物医学材料工程技术研究中心",
+            "description": "",
+            "deadline": "2024-06-22T00:00:00+08:00",
+            "website": "https://bme.scu.edu.cn/info/1011/3060.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "四川大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-06-20T00:00:00+08:00",
+            "website": "https://ccs.scu.edu.cn/info/1026/3708.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "四川大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-06-20T12:00:00+08:00",
+            "website": "https://cs.scu.edu.cn/info/1247/18447.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "四川大学",
+            "institute": "数学学院",
+            "description": "",
+            "deadline": "2024-06-20T18:00:00+08:00",
+            "website": "https://math.scu.edu.cn/info/1025/11181.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "数学国家高层次人才培养中心",
+            "description": "",
+            "deadline": "2024-06-12T00:00:00+08:00",
+            "website": "https://www.math.sdu.edu.cn/info/1031/19849.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "数学学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://www.math.sdu.edu.cn/info/1031/19954.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "数据科学研究院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://dsi.sdu.edu.cn/info/1157/3754.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "华东理工大学",
+            "institute": "信息科学与工程学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://cise.ecust.edu.cn/2024/0529/c7692a168034/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "华中师范大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-06-21T17:00:00+08:00",
+            "website": "https://cs.ccnu.edu.cn/info/1056/4298.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "中国海洋大学",
+            "institute": "信息科学与工程学部",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://it.ouc.edu.cn/2024/0607/c16066a466732/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国地质大学",
+            "institute": "未来技术学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://sft.cug.edu.cn/info/1025/3396.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "中国地质大学",
+            "institute": "中国地质大学（武汉）计算机",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://cs.cug.edu.cn/info/1021/6494.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "上海财经大学",
+            "institute": "统计夏令营",
+            "description": "",
+            "deadline": "2024-06-17T00:00:00+08:00",
+            "website": "https://ssm.sufe.edu.cn/4d/b6/c692a216502/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "兰州大学",
+            "institute": "信息科学与工程学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://xxxy.lzu.edu.cn/tongzhigonggao/2024/0529/270494.html",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "安徽大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-06-21T00:00:00+08:00",
+            "website": "https://ai.ahu.edu.cn/2024/0517/c19134a340323/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "香港中文大学",
+            "institute": "工程学院系统工程与工程管理系（SEEM）博士生夏令营",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/GKvRFOTSyl48H4QhNza2uQ",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "香港中文大学",
+            "institute": "港中大（深圳）理工学院-本科生科研实践夏令营",
+            "description": "",
+            "deadline": "2024-06-11T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/BfEz1DRxRoDTAaTtka9czQ",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "香港科技大学",
+            "institute": "信息枢纽博士项目夏令营",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/Kcqnkg2jewVcjbsmTXFnmw",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "香港科技大学",
+            "institute": "港科广微电子博士优先录取营",
+            "description": "",
+            "deadline": "2024-04-11T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/HTg5H3QVOxOLaTIejReL1Q",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "香港科技大学",
+            "institute": "工学院 SENG Summer Camp",
+            "description": "",
+            "deadline": "2024-03-31T00:00:00+08:00",
+            "website": "https://seng.hkust.edu.hk/academics/research-postgraduate/summer-camp) | [微信公众号](https://mp.weixin.qq.com/s/BSKsYsn1Oitgr4R2FnBlJw",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "广东工业大学",
+            "institute": "信息工程学院",
+            "description": "",
+            "deadline": "2024-06-20T00:00:00+08:00",
+            "website": "https://xxgcxy.gdut.edu.cn/info/1210/8240.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "广东工业大学",
+            "institute": "集成电路学院",
+            "description": "",
+            "deadline": "2024-06-19T00:00:00+08:00",
+            "website": "https://sme.gdut.edu.cn/info/1178/3965.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "西南大学",
+            "institute": "计算机与信息科学学院/软件学院",
+            "description": "",
+            "deadline": "2024-06-19T00:00:00+08:00",
+            "website": "http://cis.swu.edu.cn/info/1145/4766.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西南大学",
+            "institute": "心理学与脑科学",
+            "description": "",
+            "deadline": "2024-06-10T00:00:00+08:00",
+            "website": "http://psy.swu.edu.cn/info/1085/3736.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "河南工业大学",
+            "institute": "复杂性科学中心",
+            "description": "",
+            "deadline": "2024-06-06T00:00:00+08:00",
+            "website": "https://cs.haut.edu.cn/info/1421/5974.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "香港大学",
+            "institute": "HKU CS Research Internship Programme",
+            "description": "",
+            "deadline": "2024-06-01T00:00:00+08:00",
+            "website": "https://www.cs.hku.hk/rintern/",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "香港大学",
+            "institute": "HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.",
+            "description": "",
+            "deadline": "2024-05-02T00:00:00+08:00",
+            "website": "https://i.cs.hku.hk/~gradappl/index.html",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "南京师范大学",
+            "institute": "计算机与电子信息学院/人工智能学院",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=19264",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "南京师范大学",
+            "institute": "南瑞电气与自动化学院",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://eae.njnu.edu.cn/info/1044/5723.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "厦门大学",
+            "institute": "电子科学与技术学院",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://ese.xmu.edu.cn/info/1018/21449.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "厦门大学",
+            "institute": "信息学院",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://informatics.xmu.edu.cn/info/1050/38419.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "厦门大学",
+            "institute": "人工智能研究院",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://iai.xmu.edu.cn/info/1110/3974.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "厦门大学",
+            "institute": "电影学院",
+            "description": "",
+            "deadline": "2024-06-16T00:00:00+08:00",
+            "website": "https://film.xmu.edu.cn/info/1208/12795.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "西湖大学",
+            "institute": "工学院2024年夏令营",
+            "description": "",
+            "deadline": "2024-06-10T12:00:00+08:00",
+            "website": "https://westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240410_39140.shtml",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "西湖大学",
+            "institute": "暑期科研实习",
+            "description": "",
+            "deadline": "2024-05-31T12:00:00+08:00",
+            "website": "https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202404/t20240418_39507.shtml",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "湖北文理学院",
+            "institute": "电子信息硕士",
+            "description": "",
+            "deadline": "2024-06-11T00:00:00+08:00",
+            "website": "https://jsjxy.hbuas.edu.cn/info/1070/6404.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "澳门大学",
+            "institute": "第五届优秀大学生暑期研习营",
+            "description": "",
+            "deadline": "2024-05-02T00:00:00+08:00",
+            "website": "https://www.fst.um.edu.mo/event/the-5th-summer-camp-for-outstanding-students-now-open-for-application/",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "香港中文大学（深圳）",
+            "institute": "数据科学学院夏令营Mini Camp",
+            "description": "",
+            "deadline": "2024-04-01T00:00:00+08:00",
+            "website": "https://sds.cuhk.edu.cn/article/1635",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "香港中文大学（深圳）",
+            "institute": "数据科学学院夏令营Mini Camp",
+            "description": "",
+            "deadline": "2024-05-01T00:00:00+08:00",
+            "website": "https://sds.cuhk.edu.cn/article/1635",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "昌平实验室",
+            "institute": "昌平实验室",
+            "description": "",
+            "deadline": "2024-06-02T00:00:00+08:00",
+            "website": "https://www.cpl.ac.cn/join_us/education/4028c1f18ec4727b018ec733a2ee0005.shtml",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "湖南工商大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-05-21T00:00:00+08:00",
+            "website": "https://cee.hutb.edu.cn/p155/tzgg/20240508/159478.html",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "辽宁科技大学",
+            "institute": "辽宁科技大学-深圳职业技术大学研究生联合培养",
+            "description": "",
+            "deadline": "2024-05-18T00:00:00+08:00",
+            "website": "https://www.ustl.edu.cn/yjs/info/1030/3007.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "半导体学院（集成电路学院）",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "http://sic.hnu.edu.cn/info/1115/1865.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "信息科学与工程学院",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "http://csee.hnu.edu.cn/info/1062/13197.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "电气与信息工程学院",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "https://eeit.hnu.edu.cn/info/1184/10533.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "机器人学院",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "http://robotics.hnu.edu.cn/info/1074/2648.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "物理与微电子学院",
+            "description": "",
+            "deadline": "2024-06-15T00:00:00+08:00",
+            "website": "https://spe.hnu.edu.cn/info/1083/8776.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "类脑智能科学与技术研究院",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://istbi.fudan.edu.cn/info/1167/5380.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "大数据学院",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://sds.fudan.edu.cn/3f/31/c17701a671537/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "计算机科学技术学院",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://cs.fudan.edu.cn/3f/7d/c24257a671613/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "工程与应用技术研究院",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://faet.fudan.edu.cn/3f/67/c23815a671591/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "微电子学院",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://sme.fudan.edu.cn/3f/5f/c29363a671583/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "信息科学与工程学院",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "http://www.it.fudan.edu.cn/Data/View/4616",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "信息科学与工程学院通信科学与工程系",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/kx8vWdsMV51w1X4HZpfKoA",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "信息科学与工程学院光科学与工程系",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/YPTF899bD9-rqH8ceppJyQ",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "信息科学与工程学院电子工程系",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/s6KvHab_py821ozP9-6rzw",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "智能复杂体系基础理论与关键技术实验室",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://iics.fudan.edu.cn/40/ee/c43157a671982/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "智能医学研究院",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://imi.fudan.edu.cn/info/1033/1553.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "数字医学研究中心",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "https://miccai.fudan.edu.cn/41/4b/c34228a672075/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "微纳系统中心",
+            "description": "",
+            "deadline": "2024-05-31T17:00:00+08:00",
+            "website": "http://cmns.fudan.edu.cn/Data/View/346",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中南大学",
+            "institute": "自动化学院",
+            "description": "",
+            "deadline": "2024-06-13T00:00:00+08:00",
+            "website": "https://soa.csu.edu.cn/info/1032/7957.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中南大学",
+            "institute": "大数据研究院",
+            "description": "",
+            "deadline": "2024-06-13T00:00:00+08:00",
+            "website": "https://bdi.csu.edu.cn/info/1063/3325.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中南大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-06-13T00:00:00+08:00",
+            "website": "https://cse.csu.edu.cn/info/1040/9622.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中南大学",
+            "institute": "电子信息学院",
+            "description": "",
+            "deadline": "2024-06-13T00:00:00+08:00",
+            "website": "https://ei.csu.edu.cn/info/1085/1549.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京脑科学与类脑研究所",
+            "institute": "北京脑科学与类脑研究所",
+            "description": "",
+            "deadline": "2024-06-12T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/L_hylpIfdytHHX34y6qP_w",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "沈阳自动化研究所",
+            "description": "",
+            "deadline": "2024-01-18T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/6FkXmGk-vdqoBRAq4BbQ2g",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海高等研究院",
+            "description": "",
+            "deadline": "2024-12-24T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/JbVEal_anIerR6T0QVMjwA",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
