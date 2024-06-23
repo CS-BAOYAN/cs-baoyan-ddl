@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     <h2>${school.name} ${school.institute}</h2>
                     <p>${school.description}</p>
                     <p><strong>日期:</strong> ${school.date}</p>
-                    <p><strong>网站:</strong> <a href="${school.website}" target="_blank">${school.website}</a></p>
+                    <p><strong>网址:</strong> <a href="${school.website}" target="_blank">${school.website}</a></p>
                     <div class="tags">
                         ${school.tags.map(tag => `<span style="color: ${hashColor(tag)}; border-color: ${hashColor(tag)};">${tag}</span>`).join('')}
                     </div>
