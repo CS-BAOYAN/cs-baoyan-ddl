@@ -3,7 +3,7 @@
         {
             "name": "清华大学",
             "institute": "自动化系智能与网络化系统研究中心",
-            "description": "清华大学自动化系智能与网络化系统研究中心",
+            "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://mp.weixin.qq.com/s/l7kGbDxlcb5sOG3_1Bo0MQ",
             "tags": [
@@ -577,7 +577,7 @@
             "name": "大连理工大学",
             "institute": "软件学院",
             "description": "",
-            "deadline": "2024-06-24T00:08:00+08:00",
+            "deadline": "2024-06-24T08:00:00+08:00",
             "website": "https://ss.dlut.edu.cn/info/1122/28802.htm",
             "tags": [
                 "985",
