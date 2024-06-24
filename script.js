@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     fetch('config/schools.json')
         .then(response => response.json())
         .then(data => {
-            schools = data.schools;
+            schools = data.camp2024;
             updateCountdowns();
             setInterval(updateCountdowns, 1000);
         });
