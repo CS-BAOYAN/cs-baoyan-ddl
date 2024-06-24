@@ -2,7 +2,7 @@ name: Update README from BoardCaster
 
 on:
   schedule:
-    - cron: '* */10 * * *'  # 每五分钟运行一次
+    - cron: '*/15 * * * *'  # 每15分钟运行一次
   workflow_dispatch:  # 手动触发
 
 jobs:
