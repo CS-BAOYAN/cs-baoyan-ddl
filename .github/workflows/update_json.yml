@@ -1,0 +1,35 @@
+name: Update README from BoardCaster
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # 每五分钟运行一次
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Listener repository
+      uses: actions/checkout@v2
+
+    - name: Clone BoardCaster repository
+      run: git clone https://github.com/Axi404/BoardCaster.git
+
+    - name: Copy and rename data.json to config/schools.json
+      run: |
+        cp BoardCaster/data.json config/schools.json
+
+    - name: Commit and push changes if there are any
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+        git add config/schools.json
+        if git diff-index --quiet HEAD; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update config/schools.json from BoardCaster"
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
