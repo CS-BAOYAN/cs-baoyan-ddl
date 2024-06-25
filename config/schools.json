@@ -1744,7 +1744,8 @@
                 "TOP2",
                 "C9",
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -1825,7 +1826,8 @@
                 "TOP2",
                 "C9",
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -1852,7 +1854,8 @@
                 "TOP2",
                 "C9",
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -2456,7 +2459,8 @@
             "website": "https://ccst.jlu.edu.cn/info/1091/19265.htm",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -2467,7 +2471,8 @@
             "website": "https://csw.jlu.edu.cn/info/1156/7193.htm",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -2867,7 +2872,8 @@
             "deadline": "2024-06-21T00:00:00+08:00",
             "website": "https://ai.ahu.edu.cn/2024/0517/c19134a340323/page.htm",
             "tags": [
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -2927,7 +2933,8 @@
             "deadline": "2024-06-20T00:00:00+08:00",
             "website": "https://xxgcxy.gdut.edu.cn/info/1210/8240.htm",
             "tags": [
-                "四非"
+                "四非",
+                "已开营"
             ]
         },
         {
@@ -3040,7 +3047,8 @@
             "website": "https://iai.xmu.edu.cn/info/1110/3974.htm",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -3209,7 +3217,8 @@
             "website": "https://istbi.fudan.edu.cn/info/1167/5380.htm",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -3220,7 +3229,8 @@
             "website": "https://sds.fudan.edu.cn/3f/31/c17701a671537/page.htm",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -3243,7 +3253,8 @@
             "website": "https://faet.fudan.edu.cn/3f/67/c23815a671591/page.htm",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -3265,7 +3276,8 @@
             "website": "http://www.it.fudan.edu.cn/Data/View/4616",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -3354,7 +3366,8 @@
             "website": "https://soa.csu.edu.cn/info/1032/7957.htm",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -3387,7 +3400,8 @@
             "website": "https://ei.csu.edu.cn/info/1085/1549.htm",
             "tags": [
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -3436,7 +3450,9 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://ss.xju.edu.cn/__local/E/8D/CD/35B431163E1EFE73225ECAF1C0B_53070F25_477F0.pdf",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "新疆大学",
@@ -3444,7 +3460,9 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "https://it.xju.edu.cn/info/1101/3167.htm",
-            "tags": ["211"]
+            "tags": [
+                "211"
+            ]
         },
         {
             "name": "海河大学",
@@ -3452,7 +3470,17 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://cies.hhu.edu.cn/2024/0624/c4093a285216/page.htm",
-            "tags": ["四非"]
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "工程师学院",
+            "description": "",
+            "deadline": "2024-07-11T00:00:00+08:00",
+            "website": "https://pi.zju.edu.cn/2024/0620/c67820a2937382/page.htm",
+            "tags": []
         }
     ]
 }
