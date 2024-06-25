@@ -1,16 +1,28 @@
 document.addEventListener('DOMContentLoaded', function () {
     let schools = [];
+    let currentSource = 'camp2024';
     const schoolList = document.getElementById('school-list');
     const searchInput = document.getElementById('search');
     const clearSearchButton = document.getElementById('clear-search');
+    const sourceSelect = document.getElementById('source-select');
+    const currentStatus = document.getElementById('current-status');
 
-    fetch('config/schools.json')
-        .then(response => response.json())
-        .then(data => {
-            schools = data.camp2024;
-            updateCountdowns();
-            setInterval(updateCountdowns, 1000);
-        });
+    function loadData(source) {
+        fetch('config/schools.json')
+            .then(response => response.json())
+            .then(data => {
+                schools = data[source];
+                updateCountdowns();
+                setInterval(updateCountdowns, 1000);
+            });
+    }
+
+    loadData(currentSource);
+
+    sourceSelect.addEventListener('change', function () {
+        currentSource = sourceSelect.value;
+        loadData(currentSource);
+    });
 
     function formatDate(date) {
         const options = {

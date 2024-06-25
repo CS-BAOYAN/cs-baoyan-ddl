@@ -3,16 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CS Summer Camps Deadlines</title>
+    <title>CS BAOYAN Deadlines</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>CS Summer Camps Deadlines</h1>
-            <p>计算机保研夏令营DDL，<a href="https://github.com/CS-BAOYAN/CSSummerCampDDL">GitHub链接</a>，欢迎PR。</p>
+            <h1>CS BAOYAN Deadlines</h1>
+            <p>计算机保研DDL，<a href="https://github.com/CS-BAOYAN/CSBAOYANDDL">GitHub链接</a>，欢迎PR。</p>
             <p><strong>声明:</strong> 本网站排序使用时间+字典序排序，DDL均为人为收集，起到参考作用，如有错误不承担任何责任。</p>
-            <p>全部DDL的显示使用 Asia/Shanghai 时间。一切20XX年XX月XX日截至的夏令营，在DDL中均显示为20XX年XX月XX+1日零点。</p>
+            <p>全部DDL的显示使用 Asia/Shanghai 时间。一切20XX年XX月XX日截至的夏令营/预推免，在DDL中均显示为20XX年XX月XX+1日零点。</p>
+            <div id="dropdown-container" style="position: absolute; top: 10px; right: 10px;">
+                <label for="source-select">选择数据源:</label>
+                <select id="source-select">
+                    <option value="camp2024">夏令营2024</option>
+                    <option value="yutuimian2024">预推免2024</option>
+                </select>
+            </div>
         </header>
         <div class="filters">
             <label><input type="checkbox" value="TOP2"> TOP2</label>

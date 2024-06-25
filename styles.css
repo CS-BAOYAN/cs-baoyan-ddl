@@ -171,3 +171,16 @@ header {
         flex-wrap: wrap;
     }
 }
+
+#dropdown-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#source-select {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
