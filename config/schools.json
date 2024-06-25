@@ -3418,7 +3418,7 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://ss.xju.edu.cn/__local/E/8D/CD/35B431163E1EFE73225ECAF1C0B_53070F25_477F0.pdf",
-            "tags": []
+            "tags": ["211"]
         },
         {
             "name": "新疆大学",
@@ -3426,7 +3426,7 @@
             "description": "",
             "deadline": "2024-07-02T00:00:00+08:00",
             "website": "https://it.xju.edu.cn/info/1101/3167.htm",
-            "tags": []
+            "tags": ["211"]
         },
         {
             "name": "海河大学",
@@ -3434,7 +3434,7 @@
             "description": "",
             "deadline": "2024-07-01T00:00:00+08:00",
             "website": "https://cies.hhu.edu.cn/2024/0624/c4093a285216/page.htm",
-            "tags": []
+            "tags": ["四非"]
         }
     ]
 }
