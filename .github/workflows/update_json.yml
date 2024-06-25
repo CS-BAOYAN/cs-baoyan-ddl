@@ -1,4 +1,4 @@
-name: Update README from BoardCaster
+name: Update JSON from BoardCaster
 
 on:
   schedule:
