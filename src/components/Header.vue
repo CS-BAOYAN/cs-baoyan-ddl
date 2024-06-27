@@ -60,4 +60,12 @@ header {
   border-radius: 5px;
   border: 1px solid #ccc;
 }
+
+@media screen and (max-width: 768px) {
+  #dropdown-container {
+    position: static; /* 取消绝对定位 */
+    margin-top: 10px; /* 增加顶部外边距 */
+    justify-content: center; /* 居中对齐 */
+  }
+}
 </style>
