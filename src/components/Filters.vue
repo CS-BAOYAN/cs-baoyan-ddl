@@ -11,7 +11,7 @@ export default {
     name: 'FiltersComponent',
   data() {
     return {
-      filters: ['TOP2', '华五', 'C9', '985', '211', '双非', '四非', '研究院', '联培', '已开营', '已结营'],
+      filters: ['TOP2', '港三', '华五', 'C9', '985', '211', '双非', '四非', '研究院', '联培', '已开营', '已结营'],
       selectedFilters: []
     };
   },
