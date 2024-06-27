@@ -75,6 +75,7 @@ export default {
   .details-card {
     width: 90%; /* 在手机上增加宽度 */
     padding: 10px; /* 减少内边距以适应手机屏幕 */
+    flex-direction: column;
   }
 
   .progress-container {
