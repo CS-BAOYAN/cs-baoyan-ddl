@@ -148,7 +148,8 @@
                 "华五",
                 "C9",
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -295,7 +296,8 @@
             "deadline": "2024-06-24T00:00:00+08:00",
             "website": "https://scs.bupt.edu.cn/info/1050/3886.htm",
             "tags": [
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -1921,7 +1923,8 @@
                 "华五",
                 "C9",
                 "985",
-                "211"
+                "211",
+                "已开营"
             ]
         },
         {
@@ -3545,6 +3548,127 @@
             "description": "",
             "deadline": "2024-06-28T00:00:00+08:00",
             "website": "https://yz.cuc.edu.cn/_upload/article/files/ff/73/5ca1007c48f3937e1353362260a8/43747dea-79f9-4fb7-972e-2112bd84d477.pdf",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "首都体育大学",
+            "institute": "体育人工智能研究院",
+            "description": "",
+            "deadline": "2024-06-29T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/Gd4M6Mt7_cDL5dE3j-AHZg",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "上海科技大学",
+            "institute": "智能科技学院",
+            "description": "",
+            "deadline": "2024-06-29T00:00:00+08:00",
+            "website": "http://github.com/",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "北京外国语大学",
+            "institute": "人工智能与人类语言重点实验室",
+            "description": "",
+            "deadline": "2024-07-01T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/jE5zh70IbsyPVdXKUnJ6QA",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "中国航天科工集团第二研究院",
+            "institute": "航天二院",
+            "description": "",
+            "deadline": "2024-07-14T17:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/3KIvIBFdgNSv5yP5Pzp5dQ",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "军事科学院",
+            "institute": "第五届“强军之星”优秀大学生夏令营",
+            "description": "",
+            "deadline": "2024-07-06T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/iDBPucqozYMYyny0MfjJuA",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "深圳大学",
+            "institute": "电子与信息工程学院",
+            "description": "",
+            "deadline": "2024-07-04T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/mxV8bHtcu_7Jy5dYyb3vaA",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "浙江工业大学",
+            "institute": "信息工程学院",
+            "description": "",
+            "deadline": "2024-07-06T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/ixg1TUkRsV7qV0QlCU3rWg",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "国防科技大学",
+            "institute": "智能科学学院",
+            "description": "",
+            "deadline": "2024-07-03T18:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13819",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "云南大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-07-05T12:00:00+08:00",
+            "website": "http://www.sei.ynu.edu.cn/info/1057/2332.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "云南大学",
+            "institute": "信息学院",
+            "description": "",
+            "deadline": "2024-07-06T00:00:00+08:00",
+            "website": "http://www.ise.ynu.edu.cn/annunciations/281",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "深圳大学",
+            "institute": "医学部生物医学工程学院",
+            "description": "",
+            "deadline": "2024-07-08T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/GI7xDwhwgkx7uc1KwwFkJg",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "河海大学",
+            "institute": "人工智能与自动化学院",
+            "description": "",
+            "deadline": "2024-07-01T12:00:00+08:00",
+            "website": "https://ai.hhu.edu.cn/2024/0625/c15659a285496/page.htm",
             "tags": [
                 "211"
             ]
