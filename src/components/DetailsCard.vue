@@ -52,6 +52,12 @@ export default {
   pointer-events: auto;
 }
 
+.details-card a {
+  color: #007bff;
+  word-break: break-all;
+  text-decoration: none;
+}
+
 .tags {
   margin-top: 10px;
 }
