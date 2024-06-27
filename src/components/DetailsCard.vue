@@ -70,4 +70,22 @@ export default {
   flex-direction: row;
   justify-content: space-around;
 }
+
+@media screen and (max-width: 768px) {
+  .details-card {
+    width: 90%; /* 在手机上增加宽度 */
+    padding: 10px; /* 减少内边距以适应手机屏幕 */
+  }
+
+  .progress-container {
+    flex-direction: row; /* 保持水平排列 */
+    flex-wrap: wrap; /* 允许换行以避免溢出 */
+    justify-content: center; /* 居中对齐 */
+  }
+
+  .progress-container > * {
+    flex: 1 1 45%; /* 允许每个进度环占据大约一半宽度 */
+    margin: 5px; /* 增加间距以避免内容过于拥挤 */
+  }
+}
 </style>
