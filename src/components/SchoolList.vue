@@ -38,8 +38,18 @@ export default {
       const now = new Date();
       return this.schools
         .filter(school => {
-          const matchesTags = this.selectedFilters.length === 0 || this.selectedFilters.every(tag => school.tags.includes(tag));
+          const hasStartedTag = this.selectedFilters.includes('已开营');
+          const hasEndedTag = this.selectedFilters.includes('已结营');
+          
+          const matchesStartedTag = !hasStartedTag || (hasStartedTag && school.tags.includes('已开营'));
+          const matchesEndedTag = !hasEndedTag || (hasEndedTag && school.tags.includes('已结营'));
+
+          const otherTags = this.selectedFilters.filter(tag => tag !== '已开营' && tag !== '已结营');
+          const matchesOtherTags = otherTags.length === 0 || otherTags.some(tag => school.tags.includes(tag));
+
+          const matchesTags = matchesStartedTag && matchesEndedTag && matchesOtherTags;
           const matchesSearch = this.searchQuery === '' || school.name.toLowerCase().includes(this.searchQuery.toLowerCase()) || school.institute.toLowerCase().includes(this.searchQuery.toLowerCase());
+
           return matchesTags && matchesSearch;
         })
         .map(school => {

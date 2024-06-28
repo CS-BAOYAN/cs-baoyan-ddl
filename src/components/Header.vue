@@ -19,6 +19,9 @@
     <p>
       全部DDL的显示使用 Asia/Shanghai 时间。一切20XX年XX月XX日截至的夏令营/预推免，在DDL中均显示为20XX年XX月XX+1日零点。
     </p>
+    <p>
+      <u>院校 Tags 的筛选</u>使用<strong>或逻辑</strong>。<u>开营 Tags 的筛选</u>与<u>院校 Tags 的结果</u><strong>共同构成且逻辑</strong>。
+    </p>
     <div id="dropdown-container">
       <label for="source-select">选择数据源:</label>
       <select v-model="selectedSource" @change="onSourceChange" id="source-select">
