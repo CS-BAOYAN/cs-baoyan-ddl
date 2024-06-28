@@ -44,6 +44,9 @@ export default {
         .then(response => response.json())
         .then(data => {
           this.schools = data[source];
+          if (this.selectedSchool) {
+            this.selectedSchool = this.schools.find(school => school.name === this.selectedSchool.name && school.institute === this.selectedSchool.institute);
+          }
         });
     },
     onSourceChange(source) {
