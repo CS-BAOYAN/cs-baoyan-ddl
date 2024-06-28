@@ -1,10 +1,10 @@
 <template>
   <div class="container">
     <div :class="{ 'blur-background': selectedSchool }">
-      <HeaderComponent @source-change="onSourceChange"></HeaderComponent>
+      <HeaderComponent @source-change="onSourceChange" @toggle-countdown="onToggleCountdown"></HeaderComponent>
       <FiltersComponent @filter-change="onFilterChange"></FiltersComponent>
       <SearchComponent @search="onSearch"></SearchComponent>
-      <SchoolList :schools="schools" :selectedFilters="selectedFilters" :searchQuery="searchQuery" @show-details="showDetails"></SchoolList>
+      <SchoolList :schools="schools" :selectedFilters="selectedFilters" :searchQuery="searchQuery" :countdownType="countdownType" @show-details="showDetails"></SchoolList>
     </div>
     <div v-if="selectedSchool" class="overlay" @click="hideDetails"></div>
     <DetailsCard v-if="selectedSchool" :school="selectedSchool"></DetailsCard>
@@ -33,12 +33,14 @@ export default {
       selectedFilters: [],
       searchQuery: '',
       currentSource: 'camp2024',
-      selectedSchool: null
+      selectedSchool: null,
+      countdownType: 'text' // 初始倒计时类型
     };
   },
   methods: {
     loadData(source) {
       fetch(`/cs-baoyan-ddl/config/schools.json`)
+      // fetch(`/config/schools.json`)
         .then(response => response.json())
         .then(data => {
           this.schools = data[source];
@@ -59,6 +61,9 @@ export default {
     },
     hideDetails() {
       this.selectedSchool = null;
+    },
+    onToggleCountdown(type) {
+      this.countdownType = type;
     }
   },
   mounted() {

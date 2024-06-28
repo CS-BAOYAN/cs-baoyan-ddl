@@ -10,8 +10,11 @@
           <span v-for="tag in school.tags" :key="tag" :style="{color: hashColor(tag), borderColor: hashColor(tag)}">{{ tag }}</span>
         </div>
       </div>
-      <div class="progress-container">
+      <div class="progress-container" v-if="countdownType === 'ring'">
         <ProgressRing v-for="(progress, label) in school.progress" :key="label" :label="label" :progress="progress" :num="school.times[label]"></ProgressRing>
+      </div>
+      <div class="text-countdown" v-else>
+        {{ school.countdown }}
       </div>
     </div>
   </div>
@@ -27,7 +30,8 @@ export default {
   props: {
     schools: Array,
     selectedFilters: Array,
-    searchQuery: String
+    searchQuery: String,
+    countdownType: String
   },
   computed: {
     filteredSchools() {
@@ -167,6 +171,11 @@ export default {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.text-countdown {
+  font-size: 18px;
+  color: #333;
 }
 
 .school.green {
