@@ -6,6 +6,8 @@
 
 本网站全部信息来自 CS-BAOYAN 的 [CSSummerCamp2024](https://github.com/CS-BAOYAN/CSSummerCamp2024)。
 
+对于数据的贡献，请在本仓库中提出 Issue 或者前往 CS-BAOYAN 的保研数据库 [BoardCaster](https://github.com/CS-BAOYAN/BoardCaster) 中进行 Issue 或 PR，对于网站的任何建议（包括布局、功能等）均欢迎PR。
+
 ## 计划
 
 - [x] 加入预推免 Version
