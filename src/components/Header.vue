@@ -124,29 +124,10 @@ header {
     margin-top: 10px; /* 增加顶部外边距 */
     justify-content: center; /* 居中对齐 */
   }
-
-  .toggle-switch {
-    width: 50px;
-    height: 25px;
-  }
-
-  .toggle-knob {
-    width: 23px;
-    height: 23px;
-  }
-
-  .toggle-knob-text {
-    transform: translateX(25px);
-  }
-
-  .toggle-label {
-    font-size: 12px;
-  }
-
-  #dropdown-container {
-    position: static;
-    margin-top: 10px;
-    justify-content: center;
+  #toggle-container {
+    position: static; /* 取消绝对定位 */
+    margin-top: 10px; /* 增加顶部外边距 */
+    justify-content: center; /* 居中对齐 */
   }
 }
 </style>
