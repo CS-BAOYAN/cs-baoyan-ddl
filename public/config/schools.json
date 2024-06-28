@@ -2196,8 +2196,8 @@
             "name": "哈尔滨工业大学",
             "institute": "哈工大SCIR（哈工大赛尔实验室）",
             "description": "",
-            "deadline": "2024-06-21T00:00:00+08:00",
-            "website": "https://mp.weixin.qq.com/s/tMZhgGdGZkoTz7q1mLDfFw",
+            "deadline": "2024-07-05T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/oEl6wG301SxbYmRmQYhBDw",
             "tags": [
                 "C9",
                 "985",
@@ -3672,6 +3672,27 @@
             "deadline": "2024-07-01T12:00:00+08:00",
             "website": "https://ai.hhu.edu.cn/2024/0625/c15659a285496/page.htm",
             "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "华北电力大学",
+            "institute": "控制与计算机工程学院",
+            "description": "",
+            "deadline": "2024-07-05T00:00:00+08:00",
+            "website": "https://cce.ncepu.edu.cn/tztg1/15bf28bd060640648fb0ac22a5439710.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "华中科技大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-07-02T00:00:00+08:00",
+            "website": "https://cse.hust.edu.cn/info/1079/4054.htm",
+            "tags": [
+                "985",
                 "211"
             ]
         }
