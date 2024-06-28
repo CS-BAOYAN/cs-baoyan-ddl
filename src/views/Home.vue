@@ -60,7 +60,6 @@ export default {
       this.searchQuery = query;
     },
     showDetails(school) {
-      console.log(school)
       this.selectedSchool = school;
     },
     hideDetails() {
