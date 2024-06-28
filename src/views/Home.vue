@@ -44,9 +44,7 @@ export default {
         .then(response => response.json())
         .then(data => {
           this.schools = data[source];
-          if (this.selectedSchool) {
-            this.selectedSchool = this.schools.find(school => school.name === this.selectedSchool.name && school.institute === this.selectedSchool.institute);
-          }
+          this.updateSelectedSchool();
         });
     },
     onSourceChange(source) {
@@ -70,7 +68,7 @@ export default {
     },
     updateSelectedSchool() {
       if (this.selectedSchool) {
-        const updatedSchool = this.schools.find(school => (school.name === this.selectedSchool.name && school.institute === this.selectedSchool.institute));
+        const updatedSchool = this.schools.find(school => school.name === this.selectedSchool.name && school.institute === this.selectedSchool.institute);
         if (updatedSchool) {
           this.selectedSchool = updatedSchool;
         }
@@ -81,7 +79,6 @@ export default {
     this.loadData(this.currentSource);
     this.intervalId = setInterval(() => {
       this.loadData(this.currentSource);
-      this.updateSelectedSchool();
     }, 1000); // 10秒更新一次
   },
   beforeUnmount() {
