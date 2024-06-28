@@ -7,7 +7,7 @@
       <SchoolList :schools="schools" :selectedFilters="selectedFilters" :searchQuery="searchQuery" :countdownType="countdownType" @show-details="showDetails"></SchoolList>
     </div>
     <div v-if="selectedSchool" class="overlay" @click="hideDetails"></div>
-    <DetailsCard v-if="selectedSchool" :school="selectedSchool"></DetailsCard>
+    <DetailsCard v-if="selectedSchool" :school="selectedSchool" :countdownType="countdownType"></DetailsCard>
   </div>
 </template>
 
@@ -39,8 +39,8 @@ export default {
   },
   methods: {
     loadData(source) {
-      fetch(`/cs-baoyan-ddl/config/schools.json`)
-      // fetch(`/config/schools.json`)
+      // fetch(`/cs-baoyan-ddl/config/schools.json`)
+      fetch(`/config/schools.json`)
         .then(response => response.json())
         .then(data => {
           this.schools = data[source];
@@ -64,13 +64,25 @@ export default {
     },
     onToggleCountdown(type) {
       this.countdownType = type;
+    },
+    updateSelectedSchool() {
+      if (this.selectedSchool) {
+        const updatedSchool = this.schools.find(school => (school.name === this.selectedSchool.name && school.institute === this.selectedSchool.institute));
+        if (updatedSchool) {
+          this.selectedSchool = updatedSchool;
+        }
+      }
     }
   },
   mounted() {
     this.loadData(this.currentSource);
-    setInterval(() => {
+    this.intervalId = setInterval(() => {
       this.loadData(this.currentSource);
-    }, 1000);
+      this.updateSelectedSchool();
+    }, 1000); // 10秒更新一次
+  },
+  beforeUnmount() {
+    clearInterval(this.intervalId);
   }
 };
 </script>
