@@ -3727,6 +3727,37 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-08-05T12:00:00+08:00",
+            "website": "https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "深圳大学",
+            "institute": "深圳大学大湾区国际创新学院",
+            "description": "",
+            "deadline": "2024-07-06T00:00:00+08:00",
+            "website": "https://ma.szu.edu.cn/info/1100/8373.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "上海第二工业大学",
+            "institute": "计算机与信息工程学院",
+            "description": "",
+            "deadline": "2024-08-01T00:00:00+08:00",
+            "website": "https://jxxy.sspu.edu.cn/2024/0628/c2084a155183/page.htm",
+            "tags": [
+                "四非"
+            ]
         }
     ],
     "yutuimian2024": []
