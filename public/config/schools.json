@@ -3790,6 +3790,26 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "南京航空航天大学",
+            "institute": "国际前沿科学研究院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "武汉工程大学",
+            "institute": "电子信息类",
+            "description": "",
+            "deadline": "2024-07-04T00:00:00+08:00",
+            "website": "https://cs.wit.edu.cn/info/1054/12078.htm",
+            "tags": [
+                "四非"
+            ]
         }
     ],
     "yutuimian2024": []
