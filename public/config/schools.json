@@ -3810,6 +3810,66 @@
             "tags": [
                 "四非"
             ]
+        },
+        {
+            "name": "重庆邮电大学",
+            "institute": "通信与信息工程学院",
+            "description": "",
+            "deadline": "2024-07-09T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s?__biz=MzU0NDAxNDkyNA==&mid=2247502507&idx=1&sn=a919d9b0079e511ec17e2d8738b3bb47",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "鹏城实验室",
+            "institute": "鹏城博士夏令营",
+            "description": "",
+            "deadline": "2024-07-15T00:00:00+08:00",
+            "website": "https://yzw.pcl.ac.cn/yzs_new/zsxxxq/index?id=7ae364bdaed74eeaa02bee310faca034&xxlm=03",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "计算机与通信工程学院",
+            "description": "",
+            "deadline": "2024-07-13T00:00:00+08:00",
+            "website": "https://scce.ustb.edu.cn/xinwentongzhi/tongzhigonggao/2024-07-03/2086.html",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "南京理工大学",
+            "institute": "智能计算成像实验室（SCILab）",
+            "description": "",
+            "deadline": "2024-07-21T00:00:00+08:00",
+            "website": "https://scilaboratory.com/h-nd-655.html",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "中国地质大学（北京）",
+            "institute": "公书慧课题组",
+            "description": "",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/QdDXY71BdEvw6EgKNHBZqQ",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "苏州大学",
+            "institute": "计算机科学与技术学院(软件学院)",
+            "description": "夏令营及预推免，第一批次：8月21日13:00-16:00，第二批次：9月11日13:00-16:00。报名截止每批次考试时间的前一周",
+            "deadline": "2024-08-14T00:00:00+08:00",
+            "website": "https://scst.suda.edu.cn/d4/c2/c29557a578754/page.htm",
+            "tags": [
+                "211"
+            ]
         }
     ],
     "yutuimian2024": []
