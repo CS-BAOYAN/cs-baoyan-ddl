@@ -4146,6 +4146,26 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "北京邮电大学",
+            "institute": "电子工程学院",
+            "description": "",
+            "deadline": "2024-08-01T00:00:00+08:00",
+            "website": "https://see.bupt.edu.cn/info/1047/2741.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "北京邮电大学",
+            "institute": "信息与通信工程学院",
+            "description": "",
+            "deadline": "2024-08-01T00:00:00+08:00",
+            "website": "https://sice.bupt.edu.cn/info/1013/2326.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
