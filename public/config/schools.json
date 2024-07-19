@@ -4046,6 +4046,76 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://sai.xidian.edu.cn/info/1106/9371.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西安建筑科技大学",
+            "institute": "信息与控制工程学院",
+            "description": "",
+            "deadline": "2024-08-02T00:00:00+08:00",
+            "website": "https://yzb.xauat.edu.cn/info/1020/6405.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "中国电力科学研究院",
+            "institute": "中国电力科学研究院",
+            "description": "",
+            "deadline": "2024-07-29T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国林业科学研究院",
+            "institute": "资源信息研究所",
+            "description": "",
+            "deadline": "2024-07-23T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "自动化学院、人工智能学院",
+            "description": "",
+            "deadline": "2024-08-09T00:00:00+08:00",
+            "website": "https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "物联网学院",
+            "description": "",
+            "deadline": "2024-07-20T00:00:00+08:00",
+            "website": "https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "上海航天技术研究院",
+            "institute": "上海航天技术研究院",
+            "description": "",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
