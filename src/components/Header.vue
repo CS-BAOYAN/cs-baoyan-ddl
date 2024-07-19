@@ -22,6 +22,9 @@
     <p>
       <u>院校 Tags 的筛选</u>使用<strong>或逻辑</strong>。<u>开营 Tags 的筛选</u>与<u>院校 Tags 的结果</u><strong>共同构成且逻辑</strong>。
     </p>
+    <p>
+      <strong>2024 夏令营信息已经暂时停止更新，2024 预推免信息开始保持与绿群 Github 仓库同步</strong>。
+    </p>
     <div id="dropdown-container">
       <label for="source-select">选择数据源:</label>
       <select v-model="selectedSource" @change="onSourceChange" id="source-select">
