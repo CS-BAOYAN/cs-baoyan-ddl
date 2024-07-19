@@ -28,8 +28,8 @@
     <div id="dropdown-container">
       <label for="source-select">选择数据源:</label>
       <select v-model="selectedSource" @change="onSourceChange" id="source-select">
-        <option value="camp2024">夏令营2024</option>
         <option value="yutuimian2024">预推免2024</option>
+        <option value="camp2024">夏令营2024</option>
       </select>
     </div>
   </header>
