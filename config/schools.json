@@ -3949,6 +3949,223 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "电子科学与工程学院",
+            "description": "",
+            "deadline": "2024-08-11T12:00:00+08:00",
+            "website": "https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "PALM实验室",
+            "description": "",
+            "deadline": "",
+            "website": "https://palm.seu.edu.cn/application.html",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-08-05T12:00:00+08:00",
+            "website": "https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "计算机科学与工程学院、软件学院",
+            "description": "",
+            "deadline": "2024-08-02T00:00:00+08:00",
+            "website": "https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "信息科学与工程学院",
+            "description": "",
+            "deadline": "2024-08-09T00:00:00+08:00",
+            "website": "https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "自动化学院",
+            "description": "",
+            "deadline": "2024-08-02T00:00:00+08:00",
+            "website": "https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "智能与计算学部导师团",
+            "description": "",
+            "deadline": "2024-08-21T00:00:00+08:00",
+            "website": "https://cic.tju.edu.cn/info/1041/4999.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "苏州大学",
+            "institute": "计算机科学与技术学院(软件学院)",
+            "description": "分两批次考试，只能选择一个参加，第一批次：8月21日13:00-16:00，第二批次：9月11日13:00-16:00。报名截止：每批次考试时间的前一周。",
+            "deadline": "2024-08-14T00:00:00+08:00",
+            "website": "https://scst.suda.edu.cn/d4/c2/c29557a578754/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://cs.xidian.edu.cn/info/1003/16583.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://sai.xidian.edu.cn/info/1106/9371.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西安建筑科技大学",
+            "institute": "信息与控制工程学院",
+            "description": "",
+            "deadline": "2024-08-02T00:00:00+08:00",
+            "website": "https://yzb.xauat.edu.cn/info/1020/6405.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "中国电力科学研究院",
+            "institute": "中国电力科学研究院",
+            "description": "",
+            "deadline": "2024-07-29T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国林业科学研究院",
+            "institute": "资源信息研究所",
+            "description": "",
+            "deadline": "2024-07-23T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/_m2WZdWsYhObMXcit12lQw",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "自动化学院、人工智能学院",
+            "description": "",
+            "deadline": "2024-08-09T00:00:00+08:00",
+            "website": "https://coa.njupt.edu.cn/2024/0701/c2277a267160/page.htm",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "物联网学院",
+            "description": "",
+            "deadline": "2024-07-20T00:00:00+08:00",
+            "website": "https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "上海航天技术研究院",
+            "institute": "上海航天技术研究院",
+            "description": "",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/K0x-kYDGYBzs2qbozfmiCw",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "南京航空航天大学",
+            "institute": "计算机科学与技术学院/人工智能学院/软件学院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://cs.nuaa.edu.cn/2024/0621/c10851a347584/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "南京航空航天大学",
+            "institute": "国际前沿科学研究院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://ifs.nuaa.edu.cn/2024/0701/c15910a348312/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "南京理工大学",
+            "institute": "智能计算成像实验室（SCILab）",
+            "description": "",
+            "deadline": "2024-07-21T00:00:00+08:00",
+            "website": "https://scilaboratory.com/h-nd-655.html",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "北京邮电大学",
+            "institute": "电子工程学院",
+            "description": "",
+            "deadline": "2024-08-01T00:00:00+08:00",
+            "website": "https://see.bupt.edu.cn/info/1047/2741.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "北京邮电大学",
+            "institute": "信息与通信工程学院",
+            "description": "",
+            "deadline": "2024-08-01T00:00:00+08:00",
+            "website": "https://sice.bupt.edu.cn/info/1013/2326.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
