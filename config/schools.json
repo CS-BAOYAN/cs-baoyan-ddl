@@ -3870,7 +3870,95 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "智能与计算学部导师团",
+            "description": "",
+            "deadline": "2024-08-21T00:00:00+08:00",
+            "website": "https://cic.tju.edu.cn/info/1041/4999.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南京航空航天大学",
+            "institute": "计算机科学与技术学院/人工智能学院/软件学院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://cs.nuaa.edu.cn/2024/0621/c10851a347584/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://cs.xidian.edu.cn/info/1003/16583.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "南京邮电大学",
+            "institute": "物联网学院",
+            "description": "",
+            "deadline": "2024-07-20T00:00:00+08:00",
+            "website": "https://ciot.njupt.edu.cn/2024/0709/c10653a267656/page.htm",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://sai.xidian.edu.cn/info/1106/9371.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "中国电力科学研究院",
+            "institute": "中国电力科学研究院",
+            "description": "",
+            "deadline": "2024-07-29T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/BodvsTQ_CRzTGmUcEFboCA",
+            "tags": [
+                "研究院"
+            ]
         }
     ],
-    "yutuimian2024": []
+    "yutuimian2024": [
+        {
+            "name": "清华大学",
+            "institute": "高等研究院",
+            "description": "",
+            "deadline": "2024-09-02T00:00:00+08:00",
+            "website": "https://www.ias.tsinghua.edu.cn/zsxx.htm",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "智能产业研究院",
+            "description": "",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg",
+            "tags": [
+                "TOP2",
+                "C9",
+                "985",
+                "211"
+            ]
+        }
+    ]
 }
