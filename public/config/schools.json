@@ -3949,6 +3949,103 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "电子科学与工程学院",
+            "description": "",
+            "deadline": "2024-08-11T12:00:00+08:00",
+            "website": "https://electronic.seu.edu.cn/2024/0625/c11479a495398/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "PALM实验室",
+            "description": "",
+            "deadline": "",
+            "website": "https://palm.seu.edu.cn/application.html",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-08-05T12:00:00+08:00",
+            "website": "https://cyber.seu.edu.cn/2024/0627/c18223a495771/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "计算机科学与工程学院、软件学院",
+            "description": "",
+            "deadline": "2024-08-02T00:00:00+08:00",
+            "website": "https://cse.seu.edu.cn/2024/0629/c22646a495911/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "信息科学与工程学院",
+            "description": "",
+            "deadline": "2024-08-09T00:00:00+08:00",
+            "website": "https://radio.seu.edu.cn/2024/0630/c19195a496042/pagem.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东南大学",
+            "institute": "自动化学院",
+            "description": "",
+            "deadline": "2024-08-02T00:00:00+08:00",
+            "website": "https://automation.seu.edu.cn/2024/0628/c24460a495814/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "智能与计算学部导师团",
+            "description": "",
+            "deadline": "2024-08-21T00:00:00+08:00",
+            "website": "https://cic.tju.edu.cn/info/1041/4999.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "苏州大学",
+            "institute": "计算机科学与技术学院(软件学院)",
+            "description": "分两批次考试，只能选择一个参加，第一批次：8月21日13:00-16:00，第二批次：9月11日13:00-16:00。报名截止：每批次考试时间的前一周。",
+            "deadline": "2024-08-14T00:00:00+08:00",
+            "website": "https://scst.suda.edu.cn/d4/c2/c29557a578754/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://cs.xidian.edu.cn/info/1003/16583.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
