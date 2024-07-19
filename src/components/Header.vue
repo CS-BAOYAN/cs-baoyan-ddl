@@ -40,7 +40,7 @@ export default {
   name: 'HeaderComponent',
   data() {
     return {
-      selectedSource: 'camp2024',
+      selectedSource: 'yutuimian2024',
       countdownType: 'text'
     };
   },

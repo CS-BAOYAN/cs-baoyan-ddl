@@ -32,7 +32,7 @@ export default {
       schools: [],
       selectedFilters: [],
       searchQuery: '',
-      currentSource: 'camp2024',
+      currentSource: 'yutuimian2024',
       selectedSchool: null,
       countdownType: 'text' // 初始倒计时类型
     };
