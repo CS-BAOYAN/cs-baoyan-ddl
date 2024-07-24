@@ -4166,6 +4166,47 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "中国农业大学",
+            "institute": "工学院",
+            "description": "",
+            "deadline": "2024-07-31T00:00:00+08:00",
+            "website": "https://coe.cau.edu.cn/art/2024/7/16/art_39155_1032531.html",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "电子工程学院",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://see.xidian.edu.cn/html/news/12219.html",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "通信工程学院",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://ste.xidian.edu.cn/info/1337/8386.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "西安电子科技大学",
+            "institute": "空间科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-31T00:00:00+08:00",
+            "website": "https://sast.xidian.edu.cn/info/1014/6885.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
