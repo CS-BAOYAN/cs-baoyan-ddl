@@ -4207,6 +4207,101 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "密西根学院工学类专业",
+            "description": "第一批7.25，第二批8.25",
+            "deadline": "2024-07-26T00:00:00+08:00",
+            "website": "https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2024-07-19/146793/",
+            "tags": [
+                "华五",
+                "C9",
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "沈阳自动化研究所",
+            "description": "",
+            "deadline": "2024-08-13T00:00:00+08:00",
+            "website": "http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202407/t20240719_7231672.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国医科大学",
+            "institute": "智能医学学院",
+            "description": "",
+            "deadline": "",
+            "website": "https://www.cmu.edu.cn/znyx/info/1011/1621.htm",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "南京理工大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "",
+            "website": "https://mp.weixin.qq.com/s/WBivCx8Wi58SgpS2LFvuTA",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "上海科技大学",
+            "institute": "生命学院",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://slst.shanghaitech.edu.cn/2024/0722/c319a1099384/page.htm",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "国防科技大学",
+            "institute": "国防科技大学",
+            "description": "预计9月7日00:00至9月22日24:00",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13804",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京师范大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-08-12T00:00:00+08:00",
+            "website": "https://ai.bnu.edu.cn/ggjxz/tzgg/272ed4fa3c314ff287da4425cf5a8f4e.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "西北大学",
+            "institute": "西北大学",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://yjs.nwu.edu.cn/info/1104/4676.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-07-28T17:00:00+08:00",
+            "website": "http://www.ict.ac.cn/xwgg/tzgg/202407/t20240722_7232718.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
