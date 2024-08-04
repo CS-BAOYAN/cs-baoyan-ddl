@@ -4482,6 +4482,29 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "苏州研究院",
+            "description": "",
+            "deadline": "2024-08-09T00:00:00+08:00",
+            "website": "https://sri.hit.edu.cn/2024/0724/c17245a349213/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "“国优计划”专项",
+            "description": "",
+            "deadline": "2024-09-06T00:00:00+08:00",
+            "website": "https://cic.tju.edu.cn/info/1041/5013.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
