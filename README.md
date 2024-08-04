@@ -16,9 +16,9 @@
 - [x] 增加卡片视图
 - [x] 增加富信息显示
 - [x] 加入进度条样式切换功能
+- [x] 设计网页 icon
 - [ ] 优化进度条逻辑
 - [ ] 更加优雅的界面
-- [ ] 设计网页 icon
 - [ ] 设置夜间模式
 - [ ] 加入日历界面显示
 
@@ -34,11 +34,3 @@
 ## 许可
 
 本仓库使用[MIT License](LICENSE)进行许可。
-
-## 贡献者
-
-<a href="https://github.com/CS-BAOYAN/CSSummerCampDDL/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CS-BAOYAN/CSSummerCampDDL" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
