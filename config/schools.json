@@ -4639,6 +4639,16 @@
                 "华五",
                 "C9"
             ]
+        },
+        {
+            "name": "澳门大学",
+            "institute": "哲学博士学位及硕士学位",
+            "description": "",
+            "deadline": "2024-10-16T00:00:00+08:00",
+            "website": "https://grs.um.edu.mo/index.php/prospective-student/recommended-direct-admission/?lang=zh-hant",
+            "tags": [
+                "四非"
+            ]
         }
     ]
 }
