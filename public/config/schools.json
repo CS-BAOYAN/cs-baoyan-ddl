@@ -4718,7 +4718,7 @@
         },
         {
             "name": "北京科技大学",
-            "institute": "钢铁共性技术协同创新中心2",
+            "institute": "钢铁共性技术协同创新中心",
             "description": "",
             "deadline": "2024-09-01T00:00:00+08:00",
             "website": "https://cicst.ustb.edu.cn/zsjy/zsxx/50e044682eb84d999645e82ab8c47681.htm",
@@ -4901,6 +4901,72 @@
             "website": "https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html",
             "tags": [
                 "研究院"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "自动化研究所",
+            "description": "",
+            "deadline": "2024-08-30T00:00:00+08:00",
+            "website": "http://www.ia.cas.cn/yjsjy/zs/sszs/202408/t20240820_7301558.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "计算机科学与技术系博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/fecbbbab-fdde-4e21-9652-322c7a68b87d?yxsdm=024",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "求真书院“数学与人工智能硕士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://qzc.tsinghua.edu.cn/info/1162/6311.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "中国航天科工集团第三研究院",
+            "institute": "第三总体设计部",
+            "description": "",
+            "deadline": "2024-09-30T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/XYyZbbMNyiB-joHdoWyRCQ",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "国家材料服役安全科学中心",
+            "description": "",
+            "deadline": "2024-09-01T00:00:00+08:00",
+            "website": "https://ncms.ustb.edu.cn/rcpy/tzgg/e479005126814dcb8ace6b822f592d79.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "顺德创新学院",
+            "description": "",
+            "deadline": "2024-08-29T00:00:00+08:00",
+            "website": "https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm",
+            "tags": [
+                "211"
             ]
         }
     ]
