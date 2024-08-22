@@ -4649,6 +4649,39 @@
             "tags": [
                 "四非"
             ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "数据科学研究中心",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "http://cds.zju.edu.cn/a/zsxx/3498.html",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "暨南大学",
+            "institute": "",
+            "description": "暨南大学2025年接收全国高校优秀应届本科推免生报名公告",
+            "deadline": "2024-09-20T00:00:00+08:00",
+            "website": "https://yz.jnu.edu.cn/2024/0810/c33059a819263/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海微系统与信息技术研究所",
+            "description": "",
+            "deadline": "2024-09-26T00:00:00+08:00",
+            "website": "https://sim.cas.cn/yjs/zsxx/yjs_sszs/202408/t20240815_7273382.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
