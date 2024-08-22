@@ -4682,6 +4682,114 @@
             "tags": [
                 "研究院"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "微小卫星创新研究院",
+            "description": "",
+            "deadline": "2024-10-01T00:00:00+08:00",
+            "website": "https://microsate.cas.cn/yajsjy/sszsxx/202408/t20240815_7273355.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "南京大学",
+            "institute": "匡亚明学院",
+            "description": "2024年暑期学校第二轮面试报名",
+            "deadline": "2024-09-04T00:00:00+08:00",
+            "website": "https://dii.nju.edu.cn/d2/25/c11317a709157/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "上海高等研究院",
+            "description": "",
+            "deadline": "2024-10-01T00:00:00+08:00",
+            "website": "http://www.sari.cas.cn/gradedu/gdzssz/gdtms/202408/t20240814_7266181.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "钢铁共性技术协同创新中心2",
+            "description": "",
+            "deadline": "2024-09-01T00:00:00+08:00",
+            "website": "https://cicst.ustb.edu.cn/zsjy/zsxx/50e044682eb84d999645e82ab8c47681.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "软件学院博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/8d9fc0c1-e14e-45d8-91eb-1909eeb6b996?yxsdm=410",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "网络科学与网络空间研究院博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cf455e69-13d6-41c7-9d1d-58a047a2c003?yxsdm=412",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "人工智能学院博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/65843094-4e3a-4290-ac3f-4383729fb21a?yxsdm=094",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "电子工程系博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ca177881-23ed-4d30-8600-b1882b74d623?yxsdm=023",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "交叉信息研究院博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/5de6afb2-c313-42a2-8372-1a49b851fe1f?yxsdm=047",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
         }
     ]
 }
