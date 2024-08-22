@@ -4790,6 +4790,118 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "工业工程系博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/72ef6b22-c7af-417d-803e-3c2e1b362ebe?yxsdm=016",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "统计与数据科学系博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/b5486b29-e767-4b4e-acf8-1f7f44409cb0?yxsdm=088",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cb844d46-ba07-4e06-a814-e492a5a8c7a0?yxsdm=599",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "计算机科学与技术学院（深圳）",
+            "description": "",
+            "deadline": "2024-09-10T00:00:00+08:00",
+            "website": "http://cs.hitsz.edu.cn/info/1029/7452.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "集成电路学院集成电路创新博士班",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/1aceebfd-9c92-4d8a-aee9-9ec90a754f1a?yxsdm=026",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "空间科学与应用技术研究院（深圳）",
+            "description": "第一批8.28；第二批9.4",
+            "deadline": "2024-08-29T00:00:00+08:00",
+            "website": "http://issat.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1079&wbnewsid=2711",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "高等研究院博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/4f1410c8-5e05-4d93-931b-a85aca0f026d?yxsdm=048",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "生物医学工程与仪器科学学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "http://www.cbeis.zju.edu.cn/2024/0819/c63837a2953766/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算机网络信息中心",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://cnic.cas.cn/yjsjy/tzgg/202408/t20240819_7287051.html",
+            "tags": [
+                "研究院"
+            ]
         }
     ]
 }
