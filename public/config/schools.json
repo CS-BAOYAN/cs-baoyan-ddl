@@ -5089,6 +5089,18 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "电子与信息工程学院（深圳）",
+            "description": "",
+            "deadline": "2024-09-07T00:00:00+08:00",
+            "website": "http://eie.hitsz.edu.cn/info/1018/2633.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
         }
     ]
 }
