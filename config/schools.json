@@ -3944,10 +3944,10 @@
             "deadline": "",
             "website": "https://mp.weixin.qq.com/s/sHhcErP2b-aKcBNsRHugWg",
             "tags": [
-                "TOP2",
-                "C9",
                 "985",
-                "211"
+                "211",
+                "TOP2",
+                "C9"
             ]
         },
         {
@@ -4967,6 +4967,68 @@
             "website": "https://sd.ustb.edu.cn/tzgg/d86e101480c9471281da8ce5ba9aca29.htm",
             "tags": [
                 "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "鹏城实验室联合培养博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/cde4cb89-e54f-452a-a6f8-eaf14d867619?yxsdm=599",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "南方科技大学联合培养博士",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/ed76b438-d3a6-4103-b387-4ac778c2c426?yxsdm=599",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "华东理工大学",
+            "institute": "接收外校推荐免试研究生（含直博生）预报名",
+            "description": "",
+            "deadline": "2024-09-20T09:00:00+08:00",
+            "website": "https://gschool.ecust.edu.cn/2024/0821/c12708a170153/page.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "工程硕博士培养改革专项",
+            "description": "",
+            "deadline": "2024-09-02T16:00:00+08:00",
+            "website": "https://gsao.fudan.edu.cn/83/15/c15014a688917/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://www.sigs.tsinghua.edu.cn/2024/0823/c118a95817/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
             ]
         }
     ]
