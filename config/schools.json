@@ -5030,6 +5030,65 @@
                 "TOP2",
                 "C9"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院互动媒体设计与设计中心",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/n5tiL8NA71YN6UoOJkmV4w",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "前沿交叉科学技术研究院",
+            "description": "",
+            "deadline": "2024-08-31T00:00:00+08:00",
+            "website": "https://qy.ustb.edu.cn/tzgg/cdf07f88e1864b6d95aab2babb19d573.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "中央音乐学院",
+            "institute": "音乐人工智能与音乐信息科技方向",
+            "description": "",
+            "deadline": "2024-09-20T00:00:00+08:00",
+            "website": "https://www.ccom.edu.cn/info/10711/235001.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "深圳国际研究生院海洋工程研究院",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/gg1n3wFXkUTu6yw-C9nqSw",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "工程硕博士培养改革专项",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://yzbm.tsinghua.edu.cn/publish/s01/s0102/detail/93aa8e13-a074-41df-8105-e62df4fdda91?yxsdm=047",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
         }
     ]
 }
