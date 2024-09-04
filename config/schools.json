@@ -5101,6 +5101,73 @@
                 "211",
                 "C9"
             ]
+        },
+        {
+            "name": "清华大学",
+            "institute": "电子工程系天基网络与通信全国重点实验室",
+            "description": "",
+            "deadline": "2024-09-03T00:00:00+08:00",
+            "website": "https://www.ee.tsinghua.edu.cn/info/1078/4549.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "西湖大学",
+            "institute": "工学院2025年博士研究生",
+            "description": "",
+            "deadline": "2024-09-10T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/BYhZU8vqKXa8ugkmBTI6rQ",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "2025推免生接收",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://yzb.tju.edu.cn/xwzx/zxxx/202407/t20240706_323840.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国海洋大学",
+            "institute": "创新人才培养专项计划研究生",
+            "description": "",
+            "deadline": "2024-09-20T00:00:00+08:00",
+            "website": "https://yz.ouc.edu.cn/2024/0827/c5926a482047/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "哈尔滨工业大学",
+            "institute": "国优计划专项研究生",
+            "description": "",
+            "deadline": "2024-09-07T00:00:00+08:00",
+            "website": "https://yzb.hit.edu.cn/2024/0828/c8822a351712/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
+        },
+        {
+            "name": "北京科技大学",
+            "institute": "校企联合培养工程硕博士专项计划",
+            "description": "",
+            "deadline": "2024-09-02T00:00:00+08:00",
+            "website": "https://yzxc.ustb.edu.cn/xlytm/hdap/9c535140e0474e8abfa82b77a77d2f92.htm",
+            "tags": [
+                "211"
+            ]
         }
     ]
 }
