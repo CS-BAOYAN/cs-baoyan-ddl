@@ -5332,6 +5332,89 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "与宁波东方理工大学联培",
+            "description": "上海交通大学与宁波东方理工大学（暂名）2025年招收优秀应届本科毕业生免试攻读博士研究生办法",
+            "deadline": "2024-09-17T00:00:00+08:00",
+            "website": "https://yzb.sjtu.edu.cn/info/1008/4725.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "浙江大学",
+            "institute": "国优计划",
+            "description": "",
+            "deadline": "2024-09-09T00:00:00+08:00",
+            "website": "http://www.grs.zju.edu.cn/yjszs/2024/0901/c28479a2956024/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "华南理工大学",
+            "institute": "智能EDA专项班",
+            "description": "",
+            "deadline": "",
+            "website": "https://yz.scut.edu.cn/2024/0829/c30674a560558/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "国优计划",
+            "description": "",
+            "deadline": "2024-09-05T00:00:00+08:00",
+            "website": "https://www.cie.sdu.edu.cn/info/1033/4876.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "信息学院",
+            "description": "",
+            "deadline": "2024-09-15T00:00:00+08:00",
+            "website": "https://www.ise.sdu.edu.cn/info/1025/13923.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "与宁波东方理工大学联培",
+            "description": "",
+            "deadline": "2024-09-17T00:00:00+08:00",
+            "website": "https://www.eitech.edu.cn/?admission=中国科学技术大学与宁波东方理工大学（暂名）2025-2",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "集成电路专项导师团",
+            "description": "",
+            "deadline": "2024-09-09T00:00:00+08:00",
+            "website": "https://yzb.tju.edu.cn/xwzx/zxxx/202408/t20240830_323891.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
