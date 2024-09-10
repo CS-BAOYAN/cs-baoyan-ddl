@@ -5504,7 +5504,7 @@
             "institute": "电子与信息工程学院",
             "description": "",
             "deadline": "2024-09-14T12:00:00+08:00",
-            "website": "https://see.tongji.edu.cn/info/1173/12926.htm",
+            "website": "https://see.tongji.edu.cn/info/1147/12939.htm",
             "tags": [
                 "985",
                 "211"
@@ -5771,6 +5771,136 @@
             "tags": [
                 "985",
                 "211"
+            ]
+        },
+        {
+            "name": "华中农业大学",
+            "institute": "信息学院",
+            "description": "",
+            "deadline": "2024-09-18T00:00:00+08:00",
+            "website": "https://coi.hzau.edu.cn/info/1015/12503.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "海军工程大学",
+            "institute": "攻读博士学位",
+            "description": "",
+            "deadline": "2024-10-11T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/r3QyLDgJ3GTx_9Vvi4FUIA",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "兰州大学",
+            "institute": "“国优计划”专项",
+            "description": "",
+            "deadline": "2024-09-27T00:00:00+08:00",
+            "website": "https://yz.lzu.edu.cn/shuoshishengzhaosheng/tuijianmianshi/2024/0907/274604.html",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "工程硕博士专项",
+            "description": "",
+            "deadline": "2024-09-27T00:00:00+08:00",
+            "website": "https://yz.tongji.edu.cn/info/1010/3653.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "上海交通大学",
+            "institute": "电子信息与电气工程学院工程硕博士培养改革专项",
+            "description": "",
+            "deadline": "2024-09-13T00:00:00+08:00",
+            "website": "https://www.seiee.sjtu.edu.cn/via/yjspy_zsgz_sszs/10653.html",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "郑州大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "http://softschool.zzu.edu.cn/front/singleArticleDetail?id=4a453ec89077fd760191cf896c0202bc",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "软件与微电子学院(硕士)",
+            "description": "",
+            "deadline": "2024-09-14T16:00:00+08:00",
+            "website": "https://www.ss.pku.edu.cn/admission/admnotice/4603.html",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "软件与微电子学院(直博)",
+            "description": "",
+            "deadline": "2024-09-14T16:00:00+08:00",
+            "website": "https://www.ss.pku.edu.cn/admission/admnotice/4602.html",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-14T16:00:00+08:00",
+            "website": "https://cs.pku.edu.cn/info/1022/3272.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "智能学院",
+            "description": "",
+            "deadline": "2024-09-14T16:00:00+08:00",
+            "website": "https://sai.pku.edu.cn/info/1034/3108.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
+            ]
+        },
+        {
+            "name": "北京大学",
+            "institute": "信息与工程学院(深圳)",
+            "description": "",
+            "deadline": "2024-09-14T16:00:00+08:00",
+            "website": "https://www.ece.pku.edu.cn/info/1025/2832.htm",
+            "tags": [
+                "985",
+                "211",
+                "TOP2",
+                "C9"
             ]
         }
     ]
