@@ -5415,6 +5415,168 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "计算技术研究所",
+            "description": "",
+            "deadline": "2024-09-06T12:00:00+08:00",
+            "website": "https://www.ict.ac.cn/yjsjy/zsxx/sszs/202409/t20240902_7331937.html",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "推荐免试研究生（含直接攻博）",
+            "description": "",
+            "deadline": "2024-09-27T00:00:00+08:00",
+            "website": "https://yz.tongji.edu.cn/info/1010/3638.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "推免生招生预选拔活动报名",
+            "description": "",
+            "deadline": "2024-09-16T00:00:00+08:00",
+            "website": "https://gsao.fudan.edu.cn/8a/a3/c15014a690851/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "湘潭大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-16T00:00:00+08:00",
+            "website": "https://jwxy.xtu.edu.cn/info/1023/3426.htm",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-09-16T00:00:00+08:00",
+            "website": "https://xly.ustc.edu.cn/news.php?newsid=1039",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "工程硕博士培养改革专项",
+            "description": "",
+            "deadline": "2024-09-13T00:00:00+08:00",
+            "website": "https://yz.ustc.edu.cn/article/2734/182?num=-1",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "计算机科学技术学院",
+            "description": "",
+            "deadline": "2024-09-13T18:00:00+08:00",
+            "website": "https://cs.fudan.edu.cn/8a/d6/c24277a690902/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "电子与信息工程学院",
+            "description": "",
+            "deadline": "2024-09-14T12:00:00+08:00",
+            "website": "https://see.tongji.edu.cn/info/1173/12926.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "天津大学",
+            "institute": "智能与计算学部",
+            "description": "",
+            "deadline": "2024-09-15T12:00:00+08:00",
+            "website": "https://cic.tju.edu.cn/info/1041/4613.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中南大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-11T00:00:00+08:00",
+            "website": "https://cse.csu.edu.cn/info/1040/9738.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "山东大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-18T17:00:00+08:00",
+            "website": "https://www.cs.sdu.edu.cn/info/1068/6336.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "大数据学院",
+            "description": "",
+            "deadline": "2024-09-15T16:00:00+08:00",
+            "website": "https://sds.fudan.edu.cn/8a/d4/c17701a690900/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "国优计划",
+            "description": "",
+            "deadline": "2024-10-08T00:00:00+08:00",
+            "website": "https://yz.tongji.edu.cn/info/1010/3640.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "计算机科学与技术学院（软件学院）",
+            "description": "",
+            "deadline": "2024-09-14T12:00:00+08:00",
+            "website": "https://sse.tongji.edu.cn/info/1132/5276.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
