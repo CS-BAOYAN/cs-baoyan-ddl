@@ -5577,6 +5577,201 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "厦门大学",
+            "institute": "信息学院（软件学院）",
+            "description": "",
+            "deadline": "2024-09-14T12:00:00+08:00",
+            "website": "https://informatics.xmu.edu.cn/info/1050/40529.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "南方科技大学",
+            "institute": "系统设计与智能制造学院",
+            "description": "",
+            "deadline": "2024-09-16T00:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/KHpzoQBSG6TuZ7WlYBwdRg",
+            "tags": [
+                "双非"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "工程与应用技术研究院",
+            "description": "",
+            "deadline": "2024-09-15T16:00:00+08:00",
+            "website": "https://faet.fudan.edu.cn/8b/9b/c23815a691099/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "信息科学与工程学院",
+            "description": "",
+            "deadline": "2024-09-15T16:00:00+08:00",
+            "website": "http://www.it.fudan.edu.cn/Data/View/4696",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "类脑智能科学与技术研究院",
+            "description": "",
+            "deadline": "2024-09-15T16:00:00+08:00",
+            "website": "https://istbi.fudan.edu.cn/info/1167/6400.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "复旦大学",
+            "institute": "智能复杂体系基础理论与关键技术实验室",
+            "description": "",
+            "deadline": "2024-09-15T16:00:00+08:00",
+            "website": "https://iics.fudan.edu.cn/8b/53/c43157a691027/page.htm",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "中南大学",
+            "institute": "电子信息学院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://ei.csu.edu.cn/info/1085/1633.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "电子科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-12T00:00:00+08:00",
+            "website": "https://ese.xmu.edu.cn/info/1018/23289.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "湖南大学",
+            "institute": "信息学院",
+            "description": "",
+            "deadline": "2024-09-15T00:00:00+08:00",
+            "website": "https://informatics.xmu.edu.cn/info/1050/40529.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "上海自主智能无人系统科学中心",
+            "description": "",
+            "deadline": "2024-09-14T12:00:00+08:00",
+            "website": "https://srias.tongji.edu.cn/2b/6d/c17827a338797/page.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "同济大学",
+            "institute": "设计创意学院“人工智能与数据设计”方向",
+            "description": "",
+            "deadline": "2024-09-14T12:00:00+08:00",
+            "website": "https://mp.weixin.qq.com/s/RlvqzxGgYFEWxXU483VU2Q",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "北京通用人工智能研究院联培",
+            "description": "",
+            "deadline": "2024-09-18T18:00:00+08:00",
+            "website": "https://yz.ustc.edu.cn/article/2735/182?num=-1",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "南开大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-12T00:00:00+08:00",
+            "website": "https://ai.nankai.edu.cn/info/1024/5923.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "厦门大学",
+            "institute": "人工智能研究院",
+            "description": "",
+            "deadline": "2024-09-14T12:00:00+08:00",
+            "website": "https://iai.xmu.edu.cn/info/1110/4114.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "吉林大学",
+            "institute": "人工智能学院-“工程硕博士校企联合培养”专项",
+            "description": "",
+            "deadline": "2024-09-08T00:00:00+08:00",
+            "website": "https://sai.jlu.edu.cn/info/1066/4765.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东北财经大学",
+            "institute": "数据科学与人工智能学院",
+            "description": "",
+            "deadline": "2024-09-19T00:00:00+08:00",
+            "website": "https://dsai.dufe.edu.cn/content_85962.html",
+            "tags": [
+                "四非"
+            ]
+        },
+        {
+            "name": "中山大学",
+            "institute": "计算机学院",
+            "description": "",
+            "deadline": "2024-09-12T00:00:00+08:00",
+            "website": "https://cse.sysu.edu.cn/content/7164",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
