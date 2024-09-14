@@ -5463,8 +5463,8 @@
         {
             "name": "中国科学技术大学",
             "institute": "网络空间安全学院",
-            "description": "",
-            "deadline": "2024-09-16T00:00:00+08:00",
+            "description": "招生补充公告 https://cybersec.ustc.edu.cn/2024/0912/c23826a653417/page.htm",
+            "deadline": "2024-09-14T17:00:00+08:00",
             "website": "https://xly.ustc.edu.cn/news.php?newsid=1039",
             "tags": [
                 "985",
@@ -5913,6 +5913,66 @@
                 "985",
                 "211",
                 "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "西北工业大学",
+            "institute": "接收推荐免试研究生",
+            "description": "",
+            "deadline": "2024-09-27T00:00:00+08:00",
+            "website": "https://jsj.nwpu.edu.cn/info/1599/20385.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "研究生院科学岛分院",
+            "description": "",
+            "deadline": "2024-09-26T00:00:00+08:00",
+            "website": "https://www.hf.cas.cn/sbpy/yjsc/zs/sszs/202409/t20240910_7342840.html",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "软件学院",
+            "description": "",
+            "deadline": "2024-09-22T00:00:00+08:00",
+            "website": "https://se.xjtu.edu.cn/info/1043/2631.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-09-22T20:00:00+08:00",
+            "website": "http://cybersec.xjtu.edu.cn/info/1017/1961.htm",
+            "tags": [
+                "985",
+                "211",
+                "C9"
+            ]
+        },
+        {
+            "name": "西安交通大学",
+            "institute": "计算机科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-24T20:00:00+08:00",
+            "website": "http://www.cs.xjtu.edu.cn/info/1233/3489.htm",
+            "tags": [
+                "985",
+                "211",
                 "C9"
             ]
         }
