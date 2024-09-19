@@ -6106,8 +6106,8 @@
             "name": "西南交通大学",
             "institute": "计算机与人工智能学院",
             "description": "",
-            "deadline": "2024-09-18T00:00:00+08:00",
-            "website": "https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=b68515e4-2744-4f87-9e68-92a926a6c848",
+            "deadline": "2024-09-22T00:00:00+08:00",
+            "website": "https://scai.swjtu.edu.cn/web/page-newsDetail.html?nid=54754ae5-6b0a-40d2-be9b-1e2b1ad1f721",
             "tags": [
                 "211"
             ]
@@ -6527,7 +6527,7 @@
             "name": "电子科技大学",
             "institute": "信息与软件工程学院",
             "description": "",
-            "deadline": "2024-09-23T09:00:00+08:00",
+            "deadline": "2024-09-23T10:00:00+08:00",
             "website": "https://sise.uestc.edu.cn/info/1026/12772.htm",
             "tags": [
                 "985",
@@ -6588,6 +6588,94 @@
                 "985",
                 "211",
                 "C9"
+            ]
+        },
+        {
+            "name": "西北工业大学",
+            "institute": "电子信息学院",
+            "description": "",
+            "deadline": "2024-09-25T00:00:00+08:00",
+            "website": "https://dianzi.nwpu.edu.cn/info/1507/30571.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "人工智能学院",
+            "description": "",
+            "deadline": "2024-09-20T17:00:00+08:00",
+            "website": "https://iai.buaa.edu.cn/info/1024/3706.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京航空航天大学",
+            "institute": "可靠性与系统工程学院",
+            "description": "",
+            "deadline": "2024-09-23T12:00:00+08:00",
+            "website": "https://rse.buaa.edu.cn/info/1307/4146.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "信息与通信工程学院",
+            "description": "",
+            "deadline": "2024-09-23T17:00:00+08:00",
+            "website": "https://www.sice.uestc.edu.cn/info/1142/14636.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "通信抗干扰全国重点实验室",
+            "description": "",
+            "deadline": "2024-09-22T18:00:00+08:00",
+            "website": "https://www.ncl.uestc.edu.cn/info/1083/3147.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "武汉大学",
+            "institute": "遥感信息工程学院",
+            "description": "",
+            "deadline": "2024-09-27T14:00:00+08:00",
+            "website": "https://rsgis.whu.edu.cn/info/1083/98610.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "智能计算研究院",
+            "description": "",
+            "deadline": "2024-09-23T12:00:00+08:00",
+            "website": "https://icct.uestc.edu.cn/info/1029/1720.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "重庆大学",
+            "institute": "重庆卓越工程师学院",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://eie.cqu.edu.cn/info/1483/2655.htm",
+            "tags": [
+                "985",
+                "211"
             ]
         }
     ]
