@@ -6016,6 +6016,40 @@
             "tags": [
                 "211"
             ]
+        },
+        {
+            "name": "电子科技大学",
+            "institute": "基础与前沿研究院",
+            "description": "",
+            "deadline": "2024-09-20T17:00:00+08:00",
+            "website": "https://www.iffs.uestc.edu.cn/info/1049/5341.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "中国科学院",
+            "institute": "杭州高等研究院智能科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "http://hias.ucas.ac.cn/znkxyjs/info/1055/1761.htm",
+            "tags": [
+                "研究院"
+            ]
+        },
+        {
+            "name": "中国科学技术大学",
+            "institute": "先进技术研究院",
+            "description": "",
+            "deadline": "2024-09-26T00:00:00+08:00",
+            "website": "https://iat.ustc.edu.cn/iat/x198/20240914/7080.html",
+            "tags": [
+                "985",
+                "211",
+                "华五",
+                "C9"
+            ]
         }
     ]
 }
