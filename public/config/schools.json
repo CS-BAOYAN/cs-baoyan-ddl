@@ -6394,6 +6394,49 @@
                 "985",
                 "211"
             ]
+        },
+        {
+            "name": "四川大学",
+            "institute": "计算机学院（软件学院 智能科学与技术学院）",
+            "description": "",
+            "deadline": "2024-09-22T16:00:00+08:00",
+            "website": "https://cs.scu.edu.cn/info/1247/18579.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "北京理工大学",
+            "institute": "网络空间安全学院",
+            "description": "",
+            "deadline": "2024-09-21T00:00:00+08:00",
+            "website": "https://cst.bit.edu.cn/xxfw/tzgg/bb017f985ad047b19a28ba8c629f8b32.htm",
+            "tags": [
+                "985",
+                "211"
+            ]
+        },
+        {
+            "name": "东北师范大学",
+            "institute": "信息科学与技术学院",
+            "description": "",
+            "deadline": "2024-09-19T10:00:00+08:00",
+            "website": "https://ist.nenu.edu.cn/info/1157/5507.htm",
+            "tags": [
+                "211"
+            ]
+        },
+        {
+            "name": "国防科技大学",
+            "institute": "计算机学院",
+            "description": "材料提交时间为9月19日24:00 前",
+            "deadline": "2024-09-23T00:00:00+08:00",
+            "website": "http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13905",
+            "tags": [
+                "985",
+                "211"
+            ]
         }
     ]
 }
