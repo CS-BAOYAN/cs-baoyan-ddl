@@ -1,7 +1,7 @@
 <script lang="ts">
-  import { Sun, Moon, Calendar, List, HelpCircle, SlidersHorizontal, Clock } from 'lucide-svelte';
+  import { Sun, Moon, Monitor, Calendar, List, HelpCircle, SlidersHorizontal, Clock } from 'lucide-svelte';
   import { filters } from '$lib/urlState.svelte';
-  import { theme, toggleTheme } from '$lib/theme.svelte';
+  import { theme, cycleTheme } from '$lib/theme.svelte';
   import { SOURCES } from '$lib/types';
   import type { Source, ViewMode } from '$lib/types';
 
@@ -13,6 +13,14 @@
   function setView(v: ViewMode) {
     filters.view = v;
   }
+
+  const themeLabel = $derived(
+    theme.preference === 'system'
+      ? '当前跟随系统，点击切换为浅色'
+      : theme.preference === 'light'
+        ? '当前为浅色，点击切换为深色'
+        : '当前为深色，点击切换为跟随系统',
+  );
 </script>
 
 <header class="sticky top-0 z-30 backdrop-blur-md bg-[var(--color-surface-0)]/70 border-b border-line">
@@ -84,12 +92,14 @@
 
     <!-- theme -->
     <button
-      onclick={toggleTheme}
+      onclick={cycleTheme}
       class="surface-2 hover:surface-3 border border-line rounded-md p-1.5 transition"
-      aria-label="切换主题"
-      title={theme.value === 'dark' ? '切换浅色' : '切换深色'}
+      aria-label={themeLabel}
+      title={themeLabel}
     >
-      {#if theme.value === 'dark'}
+      {#if theme.preference === 'system'}
+        <Monitor class="w-4 h-4 text-fg-1" />
+      {:else if theme.preference === 'light'}
         <Sun class="w-4 h-4 text-fg-1" />
       {:else}
         <Moon class="w-4 h-4 text-fg-1" />

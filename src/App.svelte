@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { startClock, clock } from '$lib/clock.svelte';
+  import { initThemeSync } from '$lib/theme.svelte';
   import { filters, initFilterSync } from '$lib/urlState.svelte';
   import { applyFilters, deriveSchool } from '$lib/filter';
   import { getSchools } from '$lib/schools';
@@ -21,8 +22,12 @@
   // mount / unmount the shared 1Hz tick
   onMount(() => {
     initFilterSync();
-    const stop = startClock();
-    return stop;
+    const stopClock = startClock();
+    const stopThemeSync = initThemeSync();
+    return () => {
+      stopClock();
+      stopThemeSync();
+    };
   });
 
   // raw schools for the active source (does NOT change with filters)

@@ -4,8 +4,7 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <meta name="theme-color" content="#fafafa" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#09090b" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#fafafa" />
     <meta name="description" content="计算机保研夏令营 / 预推免截止日期速查表 — 实时倒计时、按学校档次与省份筛选" />
     <link rel="preconnect" href="https://www.shanghairanking.cn" crossorigin />
     <link rel="preconnect" href="https://rsms.me" />
@@ -13,13 +12,24 @@
     <title>CS 保研 DDL · 倒计时</title>
     <script>
       // Apply theme before paint to avoid FOUC.
-      // Default = light; only enable dark when the user has explicitly opted in.
       (function () {
+        var savedTheme = null;
         try {
-          if (localStorage.getItem('theme') === 'dark') {
-            document.documentElement.classList.add('dark');
-          }
+          savedTheme = localStorage.getItem('theme');
         } catch {}
+
+        var systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches
+          ? 'dark'
+          : 'light';
+        var resolvedTheme = savedTheme === 'light' || savedTheme === 'dark'
+          ? savedTheme
+          : systemTheme;
+        var root = document.documentElement;
+
+        root.classList.toggle('dark', resolvedTheme === 'dark');
+        root.style.colorScheme = resolvedTheme;
+        document.querySelector('meta[name="theme-color"]').content =
+          resolvedTheme === 'dark' ? '#09090b' : '#fafafa';
       })();
     </script>
   </head>
