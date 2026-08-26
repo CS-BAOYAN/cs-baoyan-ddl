@@ -17,6 +17,22 @@ export interface School {
   province?: string;
 }
 
+/** Extended fields for camp info (from extended.json, merged at load time) */
+export interface SchoolExtended {
+  camp_start?: string;
+  camp_end?: string;
+  reimbursement?: {
+    food_accommodation: boolean | null;
+    travel?: string;
+    other?: string;
+  };
+  other_notes?: string;
+  last_verified?: string;
+}
+
+/** Structure of extended.json */
+export type ExtendedData = Record<Source, Record<string, SchoolExtended>>;
+
 export const SCHOOL_TAGS = ['TOP2', '港三', '华五', 'C9', '985', '211', '双非', '四非', '研究院', '联培'] as const;
 export type SchoolTag = (typeof SCHOOL_TAGS)[number];
 
@@ -32,14 +48,33 @@ export interface FilterState {
   tags: SchoolTag[];
   status: StatusTag[];
   provinces: string[];
+  showOnlyTracked: boolean;
+  showOnlyWatched: boolean;
+  showOnlyScheduled: boolean;
+  progressStatuses: ProgressStatus[];
 }
 
 export type Urgency = 'expired' | 'critical' | 'soon' | 'near' | 'far' | 'unknown';
 
-export interface DerivedSchool extends School {
+export interface DerivedSchool extends School, SchoolExtended {
   /** ms epoch; null if no deadline */
   deadlineMs: number | null;
   /** ms remaining; null if no deadline. Negative if expired. */
   remainingMs: number | null;
   urgency: Urgency;
+}
+
+/* ── Personal progress tracking ── */
+
+export const PROGRESS_STATUSES = [
+  '未申请', '已报名', '已入营', '优营', '待录取', '已拒', '放弃', '待确认',
+] as const;
+export type ProgressStatus = (typeof PROGRESS_STATUSES)[number];
+
+export interface UserProgress {
+  status: ProgressStatus;
+  apply_date?: string;
+  notes?: string;
+  attachments?: string[];
+  updated_at: string;
 }

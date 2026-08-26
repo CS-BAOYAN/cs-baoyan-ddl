@@ -3,6 +3,8 @@
   import type { DerivedSchool } from '$lib/types';
   import { dateKey, startOfDay } from '$lib/time';
   import { clock } from '$lib/clock.svelte';
+  import { getProgress } from '$lib/progress.svelte';
+  import { progressStatusColor } from '$lib/progressColors';
 
   let { rows, onSelect }: { rows: DerivedSchool[]; onSelect: (key: string) => void } = $props();
 
@@ -78,9 +80,13 @@
   const wd = ['一', '二', '三', '四', '五', '六', '日'];
 
   function pillClass(r: DerivedSchool): string {
+    const p = getProgress(r.name, r.institute);
+    if (p) return progressStatusColor(p.status).text;
     return `urge-${r.urgency}`;
   }
   function dotClass(r: DerivedSchool): string {
+    const p = getProgress(r.name, r.institute);
+    if (p) return progressStatusColor(p.status).dot;
     return `bg-urge-${r.urgency}`;
   }
 </script>

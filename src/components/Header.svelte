@@ -1,11 +1,16 @@
 <script lang="ts">
-  import { Sun, Moon, Calendar, List, HelpCircle, SlidersHorizontal, Clock } from 'lucide-svelte';
+  import { Sun, Moon, Calendar, List, HelpCircle, SlidersHorizontal, Clock, Sparkles, CalendarClock } from 'lucide-svelte';
   import { filters } from '$lib/urlState.svelte';
   import { theme, toggleTheme } from '$lib/theme.svelte';
   import { SOURCES } from '$lib/types';
   import type { Source, ViewMode } from '$lib/types';
+  import ImportExport from './ImportExport.svelte';
+  import ExtractPanel from './ExtractPanel.svelte';
+  import CampSchedule from './CampSchedule.svelte';
 
-  let { onOpenDrawer, onOpenHelp }: { onOpenDrawer: () => void; onOpenHelp: () => void } = $props();
+  let { onOpenDrawer, onOpenHelp, onSelectSchool }: { onOpenDrawer: () => void; onOpenHelp: () => void; onSelectSchool: (key: string) => void } = $props();
+  let extractOpen = $state(false);
+  let scheduleOpen = $state(false);
 
   function setSource(e: Event) {
     filters.source = (e.target as HTMLSelectElement).value as Source;
@@ -82,6 +87,29 @@
       <SlidersHorizontal class="w-4 h-4 text-fg-1" />
     </button>
 
+    <!-- import / export -->
+    <ImportExport />
+
+    <!-- extract -->
+    <button
+      onclick={() => (extractOpen = true)}
+      class="surface-2 hover:surface-3 border border-line rounded-md p-1.5 transition text-amber-400 hover:text-amber-300"
+      title="智能提取夏令营信息"
+      aria-label="智能提取夏令营信息"
+    >
+      <Sparkles class="w-4 h-4" />
+    </button>
+
+    <!-- camp schedule -->
+    <button
+      onclick={() => (scheduleOpen = true)}
+      class="surface-2 hover:surface-3 border border-line rounded-md p-1.5 transition text-sky-400 hover:text-sky-300"
+      title="夏令营行程表"
+      aria-label="夏令营行程表"
+    >
+      <CalendarClock class="w-4 h-4" />
+    </button>
+
     <!-- theme -->
     <button
       onclick={toggleTheme}
@@ -119,3 +147,11 @@
     </a>
   </div>
 </header>
+
+{#if extractOpen}
+  <ExtractPanel onClose={() => (extractOpen = false)} />
+{/if}
+
+{#if scheduleOpen}
+  <CampSchedule onClose={() => (scheduleOpen = false)} onSelect={onSelectSchool} />
+{/if}

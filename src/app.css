@@ -31,6 +31,12 @@
   --color-urge-near:     #a3e635; /* < 30d */
   --color-urge-far:      #34d399; /* > 30d */
   --color-urge-expired:  #52525b;
+
+  /* progress status colors */
+  --color-prog-positive:  #34d399; /* 优营 / 待录取 */
+  --color-prog-active:    #fbbf24; /* 已报名 / 已入营 / 待确认 */
+  --color-prog-negative:  #fb7185; /* 已拒 */
+  --color-prog-neutral:   #71717a; /* 未申请 / 放弃 */
 }
 
 /* light theme overrides */
@@ -51,6 +57,10 @@
   --color-urge-near: #16a34a;
   --color-urge-far: #059669;
   --color-urge-expired: #a1a1aa;
+  --color-prog-positive: #059669;
+  --color-prog-active: #d97706;
+  --color-prog-negative: #e11d48;
+  --color-prog-neutral: #52525b;
 }
 
 html,
@@ -103,6 +113,16 @@ body {
 .bg-urge-near     { background: var(--color-urge-near); }
 .bg-urge-far      { background: var(--color-urge-far); }
 .bg-urge-expired  { background: var(--color-urge-expired); }
+
+/* progress status */
+.prog-positive  { color: var(--color-prog-positive); }
+.prog-active    { color: var(--color-prog-active); }
+.prog-negative  { color: var(--color-prog-negative); }
+.prog-neutral   { color: var(--color-prog-neutral); }
+.bg-prog-positive  { background: var(--color-prog-positive); }
+.bg-prog-active    { background: var(--color-prog-active); }
+.bg-prog-negative  { background: var(--color-prog-negative); }
+.bg-prog-neutral   { background: var(--color-prog-neutral); }
 
 /* scrollbars */
 * {

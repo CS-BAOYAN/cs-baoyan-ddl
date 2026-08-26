@@ -1,0 +1,18 @@
+{
+  "camp2026": {
+    "清华大学::交叉信息学院": {
+      "camp_start": "2026-07-15",
+      "camp_end": "2026-07-20",
+      "reimbursement": {
+        "food_accommodation": true,
+        "travel": "硬座/二等座",
+        "other": "提供保险"
+      },
+      "other_notes": "需携带论文打印稿",
+      "last_verified": "2026-06-01"
+    }
+  },
+  "camp2025": {},
+  "camp2024": {},
+  "yutuimian2024": {}
+}

@@ -1,9 +1,13 @@
 <script lang="ts">
-  import { ExternalLink } from 'lucide-svelte';
+  import { ExternalLink, Bookmark, CalendarPlus, CalendarCheck } from 'lucide-svelte';
   import type { DerivedSchool } from '$lib/types';
   import { formatRemainingShort, formatDateShort, progressAgainst } from '$lib/time';
   import { getInitials, getLogoUrl } from '$lib/logos';
   import { resolveProvince } from '$data/provinces';
+  import { getProgress } from '$lib/progress.svelte';
+  import { progressStatusColor, progressStatusShort } from '$lib/progressColors';
+  import { isWatched, toggleWatched } from '$lib/watched.svelte';
+  import { isScheduled, toggleScheduled } from '$lib/scheduled.svelte';
 
   let { school, selected, onSelect }: {
     school: DerivedSchool;
@@ -18,6 +22,10 @@
   const urgeClass = $derived(`urge-${school.urgency}`);
   const urgeBgClass = $derived(`bg-urge-${school.urgency}`);
   const expired = $derived(school.urgency === 'expired');
+  const userProg = $derived(getProgress(school.name, school.institute));
+  const progColor = $derived(userProg ? progressStatusColor(userProg.status) : null);
+  const watched = $derived(isWatched(school.name, school.institute));
+  const scheduled = $derived(isScheduled(school.name, school.institute));
 
   let imgFailed = $state(false);
 </script>
@@ -27,7 +35,7 @@
   data-row-key={key}
   onclick={() => onSelect(key)}
   aria-pressed={selected}
-  class="group w-full text-left grid grid-cols-[40px_minmax(0,1fr)_auto] sm:grid-cols-[44px_minmax(0,1fr)_auto_auto] items-center gap-3 sm:gap-4 px-3 sm:px-4 py-3 transition relative overflow-hidden
+  class="group w-full text-left grid grid-cols-[40px_minmax(0,1fr)_auto] sm:grid-cols-[44px_minmax(0,1fr)_auto_auto_auto] items-center gap-3 sm:gap-4 px-3 sm:px-4 py-3 transition relative overflow-hidden
     {selected ? 'surface-3' : 'hover:surface-2'}
     {expired ? 'opacity-60' : ''}"
 >
@@ -38,7 +46,7 @@
   ></span>
 
   <!-- logo -->
-  <div class="w-10 h-10 sm:w-11 sm:h-11 shrink-0 rounded-lg surface-2 border border-line grid place-items-center overflow-hidden">
+  <div class="relative w-10 h-10 sm:w-11 sm:h-11 shrink-0 rounded-lg surface-2 border border-line grid place-items-center overflow-hidden">
     {#if logo && !imgFailed}
       <img
         src={logo}
@@ -49,6 +57,11 @@
       />
     {:else}
       <span class="text-fg-2 text-[11px] font-medium tracking-tight">{getInitials(school.name)}</span>
+    {/if}
+    {#if watched}
+      <span class="absolute -top-0.5 -right-0.5 w-3.5 h-3.5 text-amber-400">
+        <Bookmark class="w-full h-full fill-current" />
+      </span>
     {/if}
   </div>
 
@@ -75,6 +88,17 @@
       {#if province}
         <span class="text-fg-4 text-[10.5px]">· {province}</span>
       {/if}
+      {#if userProg && progColor}
+        <span
+          class="inline-flex items-center gap-1 text-[10.5px] tracking-tight font-medium px-1.5 py-0.5 rounded
+            bg-emerald-100 text-emerald-700 ring-1 ring-emerald-200
+            dark:bg-emerald-500/15 dark:text-emerald-300 dark:ring-emerald-500/30"
+          title="{userProg.status}"
+        >
+          <span class="w-1.5 h-1.5 rounded-full {progColor.dot}"></span>
+          {progressStatusShort(userProg.status)}
+        </span>
+      {/if}
     </div>
   </div>
 
@@ -100,15 +124,49 @@
     <div class="text-fg-4 text-[10px] tabular">{formatDateShort(school.deadlineMs)}</div>
   </div>
 
-  <a
-    href={school.website}
-    target="_blank"
-    rel="noopener noreferrer"
-    onclick={(e) => e.stopPropagation()}
-    class="hidden sm:inline-flex shrink-0 p-1.5 rounded text-fg-3 hover:text-fg-0 hover:surface-3 transition"
-    aria-label="打开 {school.name} 官网"
-    title="打开官网"
+  <span
+    role="button"
+    tabindex="0"
+    onclick={(e) => { e.stopPropagation(); toggleWatched(school.name, school.institute); }}
+    onkeydown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.stopPropagation(); toggleWatched(school.name, school.institute); } }}
+    class="hidden sm:inline-flex shrink-0 p-1.5 rounded cursor-pointer transition
+      {watched ? 'text-amber-400 hover:text-amber-300' : 'text-fg-4 hover:text-fg-2'}"
+    aria-label={watched ? '取消关注' : '关注'}
+    title={watched ? '取消关注' : '关注'}
   >
-    <ExternalLink class="w-3.5 h-3.5" />
-  </a>
+    <Bookmark class="w-3.5 h-3.5 {watched ? 'fill-current' : ''}" />
+  </span>
+
+  {#if watched}
+    <span
+      role="button"
+      tabindex="0"
+      onclick={(e) => { e.stopPropagation(); toggleScheduled(school.name, school.institute); }}
+      onkeydown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.stopPropagation(); toggleScheduled(school.name, school.institute); } }}
+      class="hidden sm:inline-flex shrink-0 p-1.5 rounded cursor-pointer transition
+        {scheduled ? 'text-sky-400 hover:text-sky-300' : 'text-fg-4 hover:text-fg-2'}"
+      aria-label={scheduled ? '从行程移除' : '加入行程'}
+      title={scheduled ? '从行程移除' : '加入行程'}
+    >
+      {#if scheduled}
+        <CalendarCheck class="w-3.5 h-3.5" />
+      {:else}
+        <CalendarPlus class="w-3.5 h-3.5" />
+      {/if}
+    </span>
+  {/if}
+
+  {#if school.website && school.website !== '_No response_'}
+    <a
+      href={school.website}
+      target="_blank"
+      rel="noopener noreferrer"
+      onclick={(e) => e.stopPropagation()}
+      class="hidden sm:inline-flex shrink-0 p-1.5 rounded text-fg-3 hover:text-fg-0 hover:surface-3 transition"
+      aria-label="打开 {school.name} 官网"
+      title="打开官网"
+    >
+      <ExternalLink class="w-3.5 h-3.5" />
+    </a>
+  {/if}
 </button>

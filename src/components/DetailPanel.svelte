@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { X, ExternalLink, Clock } from 'lucide-svelte';
+  import { X, ExternalLink, Clock, Calendar, Gift, UserCheck, Bookmark, CalendarPlus, CalendarCheck } from 'lucide-svelte';
   import type { DerivedSchool } from '$lib/types';
   import {
     formatCountdown,
@@ -7,9 +7,13 @@
     formatDateTime,
     progressAgainst,
     splitCountdown,
+    parseDeadline,
   } from '$lib/time';
   import { getInitials, getLogoUrl } from '$lib/logos';
   import { resolveProvince } from '$data/provinces';
+  import ProgressEditor from './ProgressEditor.svelte';
+  import { isWatched, toggleWatched } from '$lib/watched.svelte';
+  import { isScheduled, toggleScheduled } from '$lib/scheduled.svelte';
 
   let { school, onClose }: { school: DerivedSchool; onClose: () => void } = $props();
 
@@ -19,6 +23,12 @@
   const parts = $derived(school.remainingMs && school.remainingMs > 0 ? splitCountdown(school.remainingMs) : null);
   const urgeClass = $derived(`urge-${school.urgency}`);
   const urgeBgClass = $derived(`bg-urge-${school.urgency}`);
+
+  const campStartMs = $derived(school.camp_start ? parseDeadline(school.camp_start) : null);
+  const campEndMs = $derived(school.camp_end ? parseDeadline(school.camp_end) : null);
+  const hasCampInfo = $derived(campStartMs !== null || campEndMs !== null || !!school.reimbursement || !!school.other_notes);
+  const watched = $derived(isWatched(school.name, school.institute));
+  const scheduled = $derived(isScheduled(school.name, school.institute));
 
   let imgFailed = $state(false);
 </script>
@@ -55,6 +65,28 @@
           <div class="text-fg-4 text-xs mt-1">{province}</div>
         {/if}
       </div>
+      <button
+        onclick={() => toggleWatched(school.name, school.institute)}
+        class="shrink-0 p-1.5 rounded transition
+          {watched ? 'text-amber-400 hover:text-amber-300' : 'text-fg-3 hover:text-fg-1 hover:surface-3'}"
+        aria-label={watched ? '取消关注' : '关注'}
+        title={watched ? '取消关注' : '关注'}
+      >
+        <Bookmark class="w-4 h-4 {watched ? 'fill-current' : ''}" />
+      </button>
+      <button
+        onclick={() => toggleScheduled(school.name, school.institute)}
+        class="shrink-0 p-1.5 rounded transition
+          {scheduled ? 'text-sky-400 hover:text-sky-300' : 'text-fg-3 hover:text-fg-1 hover:surface-3'}"
+        aria-label={scheduled ? '从行程移除' : '加入行程'}
+        title={scheduled ? '从行程移除' : '加入行程'}
+      >
+        {#if scheduled}
+          <CalendarCheck class="w-4 h-4" />
+        {:else}
+          <CalendarPlus class="w-4 h-4" />
+        {/if}
+      </button>
       <button
         onclick={onClose}
         class="shrink-0 p-1.5 rounded text-fg-3 hover:text-fg-1 hover:surface-3 transition"
@@ -132,19 +164,76 @@
         <div class="text-fg-3 text-[11px] uppercase tracking-[0.16em] font-medium mb-2">截止日期</div>
         <div class="text-fg-1 text-sm tabular">{formatDate(school.deadlineMs)}</div>
       </div>
+
+      <!-- camp info & reimbursement -->
+      {#if hasCampInfo}
+        <div class="px-5 py-4 border-b border-line">
+          <div class="flex items-center gap-2 text-fg-3 text-[11px] uppercase tracking-[0.16em] font-medium mb-3">
+            <Gift class="w-3.5 h-3.5" />
+            <span>营期与福利</span>
+          </div>
+          <div class="space-y-2.5 text-sm">
+            {#if campStartMs !== null || campEndMs !== null}
+              <div class="flex items-center gap-2 text-fg-1">
+                <Calendar class="w-3.5 h-3.5 text-fg-3 shrink-0" />
+                <span class="tabular">
+                  {campStartMs ? formatDate(campStartMs) : '?'}
+                  {' → '}
+                  {campEndMs ? formatDate(campEndMs) : '?'}
+                </span>
+              </div>
+            {/if}
+            {#if school.reimbursement}
+              <div class="text-fg-1">
+                {#if school.reimbursement.food_accommodation === true}
+                  <span class="text-emerald-400">✓</span> 食宿报销
+                {:else if school.reimbursement.food_accommodation === false}
+                  <span class="text-fg-4">✗</span> 食宿不报销
+                {/if}
+                {#if school.reimbursement.travel}
+                  <span class="text-fg-3 mx-1.5">·</span>
+                  🚅 路费: {school.reimbursement.travel}
+                {/if}
+                {#if school.reimbursement.other}
+                  <div class="text-fg-3 text-xs mt-1">{school.reimbursement.other}</div>
+                {/if}
+              </div>
+            {/if}
+            {#if school.other_notes}
+              <div class="text-fg-2 text-xs leading-relaxed whitespace-pre-line">{school.other_notes}</div>
+            {/if}
+            {#if school.last_verified}
+              <div class="text-fg-4 text-[10px]">信息更新于 {school.last_verified}</div>
+            {/if}
+          </div>
+        </div>
+      {/if}
+
+      <!-- my progress -->
+      <div class="px-5 py-4 border-b border-line">
+        <div class="flex items-center gap-2 text-fg-3 text-[11px] uppercase tracking-[0.16em] font-medium mb-3">
+          <UserCheck class="w-3.5 h-3.5" />
+          <span>我的进度</span>
+        </div>
+        <ProgressEditor name={school.name} institute={school.institute} />
+      </div>
     </div>
 
     <!-- footer cta -->
     <div class="px-5 py-4 border-t border-line">
-      <a
-        href={school.website}
-        target="_blank"
-        rel="noopener noreferrer"
-        class="w-full inline-flex items-center justify-center gap-2 px-3 py-2.5 rounded-lg surface-3 hover:bg-emerald-500/15 hover:text-emerald-200 text-fg-0 text-sm font-medium border border-line-strong transition"
-      >
-        <span>打开官网</span>
-        <ExternalLink class="w-3.5 h-3.5" />
-      </a>
+      {#if school.website && school.website !== '_No response_'}
+        <a
+          href={school.website}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="w-full inline-flex items-center justify-center gap-2 px-3 py-2.5 rounded-lg surface-3 hover:bg-emerald-500/15 hover:text-emerald-200 text-fg-0 text-sm font-medium border border-line-strong transition"
+        >
+          <span>打开官网</span>
+          <ExternalLink class="w-3.5 h-3.5" />
+        </a>
+      {:else}
+        <div class="w-full text-center text-fg-4 text-sm py-2.5">暂无官网链接</div>
+      {/if}
     </div>
   </div>
 </div>

@@ -1,4 +1,4 @@
-import type { DerivedSchool, FilterState, School } from './types';
+import type { DerivedSchool, FilterState, School, UserProgress, ProgressStatus } from './types';
 import { parseDeadline, urgency } from './time';
 import { resolveProvince } from '$data/provinces';
 
@@ -68,9 +68,40 @@ export function applyFilters(
   return out;
 }
 
-export const matchesFilter = (state: FilterState) => ({
-  query: state.query,
-  tags: state.tags,
-  status: state.status,
-  provinces: state.provinces,
-});
+/** Filter rows by personal progress tracking state */
+export function applyProgressFilter(
+  rows: readonly DerivedSchool[],
+  progressMap: Record<string, UserProgress>,
+  opts: { showOnlyTracked: boolean; statusFilter: readonly ProgressStatus[] },
+): DerivedSchool[] {
+  const { showOnlyTracked, statusFilter } = opts;
+  if (!showOnlyTracked && statusFilter.length === 0) return [...rows];
+
+  return rows.filter((r) => {
+    const key = `${r.name}::${r.institute}`;
+    const p = progressMap[key];
+    if (showOnlyTracked && !p) return false;
+    if (statusFilter.length > 0 && (!p || !statusFilter.includes(p.status))) return false;
+    return true;
+  });
+}
+
+/** Filter rows to only show watched (favorited) schools */
+export function applyWatchedFilter(
+  rows: readonly DerivedSchool[],
+  watchedMap: Record<string, boolean>,
+  showOnlyWatched: boolean,
+): DerivedSchool[] {
+  if (!showOnlyWatched) return [...rows];
+  return rows.filter((r) => !!watchedMap[`${r.name}::${r.institute}`]);
+}
+
+/** Filter rows to only show scheduled schools */
+export function applyScheduledFilter(
+  rows: readonly DerivedSchool[],
+  scheduledMap: Record<string, boolean>,
+  showOnlyScheduled: boolean,
+): DerivedSchool[] {
+  if (!showOnlyScheduled) return [...rows];
+  return rows.filter((r) => !!scheduledMap[`${r.name}::${r.institute}`]);
+}

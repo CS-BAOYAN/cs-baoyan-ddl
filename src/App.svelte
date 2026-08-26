@@ -2,8 +2,12 @@
   import { onMount } from 'svelte';
   import { startClock, clock } from '$lib/clock.svelte';
   import { filters, initFilterSync } from '$lib/urlState.svelte';
-  import { applyFilters, deriveSchool } from '$lib/filter';
-  import { getSchools } from '$lib/schools';
+  import { applyFilters, applyProgressFilter, applyWatchedFilter, applyScheduledFilter, deriveSchool } from '$lib/filter';
+  import { getSchoolsWithExtracted } from '$lib/schools';
+  import { progressMap } from '$lib/progress.svelte';
+  import { extractedMap } from '$lib/extractedData.svelte';
+  import { watchedMap } from '$lib/watched.svelte';
+  import { scheduledMap } from '$lib/scheduled.svelte';
   import type { DerivedSchool } from '$lib/types';
   import Header from '$components/Header.svelte';
   import Toolbar from '$components/Toolbar.svelte';
@@ -25,20 +29,35 @@
     return stop;
   });
 
-  // raw schools for the active source (does NOT change with filters)
-  const sourceRows = $derived(getSchools(filters.source));
+  // raw schools for the active source, merged with static extended + user extracted data
+  const sourceRows = $derived(getSchoolsWithExtracted(filters.source, extractedMap));
 
   // every 1Hz tick re-derives countdowns; expensive only in proportion to row count
   const allRows = $derived<DerivedSchool[]>(
     sourceRows.map((s) => deriveSchool(s, clock.now)),
   );
 
-  const visible = $derived(
+  const filtered = $derived(
     applyFilters(allRows, {
       query: filters.query,
       tags: filters.tags,
       status: filters.status,
       provinces: filters.provinces,
+    }),
+  );
+
+  const watchedFiltered = $derived(
+    applyWatchedFilter(filtered, watchedMap, filters.showOnlyWatched),
+  );
+
+  const scheduledFiltered = $derived(
+    applyScheduledFilter(watchedFiltered, scheduledMap, filters.showOnlyScheduled),
+  );
+
+  const visible = $derived(
+    applyProgressFilter(scheduledFiltered, progressMap, {
+      showOnlyTracked: filters.showOnlyTracked,
+      statusFilter: filters.progressStatuses,
     }),
   );
 
@@ -126,7 +145,7 @@
 <svelte:window onkeydown={onKey} />
 
 <div class="bg-page min-h-dvh flex flex-col">
-  <Header onOpenDrawer={() => (drawerOpen = true)} onOpenHelp={() => (helpOpen = true)} />
+  <Header onOpenDrawer={() => (drawerOpen = true)} onOpenHelp={() => (helpOpen = true)} onSelectSchool={handleSelect} />
 
   <div class="mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8 flex-1 flex flex-col gap-4 pb-24">
     <Toolbar {totalCount} {visibleCount} rows={allRows} />

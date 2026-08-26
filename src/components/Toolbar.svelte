@@ -1,7 +1,8 @@
 <script lang="ts">
-  import { Search, X, Zap, CalendarDays, Layers } from 'lucide-svelte';
+  import { Search, X, Zap, CalendarDays, Layers, BookmarkCheck } from 'lucide-svelte';
   import { filters, clearAllFilters, toggle } from '$lib/urlState.svelte';
   import type { DerivedSchool } from '$lib/types';
+  import { progressMap } from '$lib/progress.svelte';
 
   let { totalCount, visibleCount, rows }: {
     totalCount: number;
@@ -23,7 +24,8 @@
   });
 
   const activeFilterCount = $derived(
-    filters.tags.length + filters.status.length + filters.provinces.length + (filters.query ? 1 : 0),
+    filters.tags.length + filters.status.length + filters.provinces.length + (filters.query ? 1 : 0)
+    + (filters.showOnlyTracked ? 1 : 0) + (filters.showOnlyWatched ? 1 : 0) + (filters.showOnlyScheduled ? 1 : 0) + filters.progressStatuses.length,
   );
 
   function clearQuery() {
@@ -62,6 +64,16 @@
       <span class="text-fg-2 text-xs">全部</span>
       <span class="text-fg-0 font-semibold text-sm tabular">{stats.all}</span>
     </button>
+
+    <button
+      class="group surface-1 hover:surface-2 border border-line rounded-md px-3 py-2 flex items-center gap-2.5 transition"
+      title="已跟踪的项目"
+    >
+      <BookmarkCheck class="w-3.5 h-3.5 prog-positive" />
+      <span class="text-fg-2 text-xs">已跟踪</span>
+      <span class="text-fg-0 font-semibold text-sm tabular">{Object.keys(progressMap).length}</span>
+    </button>
+
 
     <div class="flex-1"></div>
 
@@ -131,6 +143,42 @@
           class="inline-flex items-center gap-1 surface-3 border border-line-strong text-fg-1 text-xs rounded-full pl-2.5 pr-1.5 py-1 hover:text-fg-0"
         >
           {p}
+          <X class="w-3 h-3" />
+        </button>
+      {/each}
+      {#if filters.showOnlyWatched}
+        <button
+          onclick={() => (filters.showOnlyWatched = false)}
+          class="inline-flex items-center gap-1 surface-3 border border-line-strong text-fg-1 text-xs rounded-full pl-2.5 pr-1.5 py-1 hover:text-fg-0"
+        >
+          已关注
+          <X class="w-3 h-3" />
+        </button>
+      {/if}
+      {#if filters.showOnlyTracked}
+        <button
+          onclick={() => (filters.showOnlyTracked = false)}
+          class="inline-flex items-center gap-1 surface-3 border border-line-strong text-fg-1 text-xs rounded-full pl-2.5 pr-1.5 py-1 hover:text-fg-0"
+        >
+          已跟踪
+          <X class="w-3 h-3" />
+        </button>
+      {/if}
+      {#if filters.showOnlyScheduled}
+        <button
+          onclick={() => (filters.showOnlyScheduled = false)}
+          class="inline-flex items-center gap-1 surface-3 border border-line-strong text-fg-1 text-xs rounded-full pl-2.5 pr-1.5 py-1 hover:text-fg-0"
+        >
+          我的行程
+          <X class="w-3 h-3" />
+        </button>
+      {/if}
+      {#each filters.progressStatuses as s}
+        <button
+          onclick={() => (filters.progressStatuses = toggle(filters.progressStatuses, s))}
+          class="inline-flex items-center gap-1 surface-3 border border-line-strong text-fg-1 text-xs rounded-full pl-2.5 pr-1.5 py-1 hover:text-fg-0"
+        >
+          {s}
           <X class="w-3 h-3" />
         </button>
       {/each}
